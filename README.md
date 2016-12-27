@@ -4,8 +4,8 @@ A production & consumption data visualizer app.
 
 TODO:
 - Receive and accumulate data to user account from sensors.
--Add/Remove units of measurement.
--Visualize data
+- Add/Remove units of measurement.
+- Visualize data
 
 ## Development Mode
 
