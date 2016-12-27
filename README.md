@@ -1,6 +1,11 @@
 # production-and-consumption_analytics
 
-A [re-frame](https://github.com/Day8/re-frame) application designed to ... well, that part is up to you.
+A production & consumption data visualizer app.
+
+TODO:
+- Receive and accumulate data to user account from sensors.
+-Add/Remove units of measurement.
+-Visualize data
 
 ## Development Mode
 
