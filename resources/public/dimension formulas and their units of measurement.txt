@@ -1,0 +1,2446 @@
+({{"s" -2, "kg" 1, "m" 2}
+  ([1.6605389210321898e-24 ("J_mol" "J_mols")]
+   [6.952344354577572e-24 ("cal_mol" "cal_mols")]
+   [1.986445683269303e-23
+    ("cminv" "cminvs" "invcm" "invcms" "wavenumber" "wavenumbers")]
+   [1.602176565e-19 ("eV" "eVs" "electronvolt" "electronvolts")]
+   [2.179872170368037e-18 ("rydberg" "rydbergs")]
+   [4.359744350823123e-18
+    ("Hartree"
+     "Hartrees"
+     "atomicenergy"
+     "atomicenergys"
+     "hartree"
+     "hartrees")]
+   [1e-7 ("erg" "ergs")]
+   [1 ("J" "joule" "joules")]
+   [1.3558179483314003 ("duty" "dutys")]
+   [4.1819 ("cal_twenty" "cal_twentys")]
+   [4.184
+    ("cal_th"
+     "cal_ths"
+     "calorie_th"
+     "calorie_ths"
+     "thermcalorie"
+     "thermcalories")]
+   [4.1858 ("cal_fifteen" "cal_fifteens")]
+   [4.1868
+    ("cal"
+     "cal_IT"
+     "cal_ITs"
+     "calorie"
+     "calorie_IT"
+     "calorie_ITs"
+     "calories"
+     "cals")]
+   [4.19002 ("cal_mean" "cal_means")]
+   [1054.3502644888888 ("Btu_th" "Btu_ths" "btu_th" "btu_ths")]
+   [1055.05585262
+    ("BTU"
+     "BTUs"
+     "Btu"
+     "Btu_IT"
+     "Btu_ITs"
+     "Btus"
+     "britishthermalunit"
+     "britishthermalunits"
+     "btu"
+     "btu_IT"
+     "btu_ITs"
+     "btus")]
+   [1055.8672789707778 ("Btu_mean" "Btu_means" "btu_mean" "btu_means")]
+   [3600 ("Wh" "Whs")]
+   [4185.8 ("frigorie" "frigories")]
+   [4186.8 ("Calorie" "Calories")]
+   [4185800.0000000005 ("thermie" "thermies")]
+   [105480400 ("UStherm" "UStherms" "therm" "therms")]
+   [105506000 ("ECtherm" "ECtherms")]
+   [1055055852620000000 ("quad" "quads")])}
+ {{"s" -2, "kg" 1, "m" 2, "mol" -1} ()}
+ {{"K" 2, "s" 4, "kg" -1, "m" -2}
+  ([1 ("thermalhenry" "thermalhenrys")])}
+ {{"s" -3, "m" 1} ([0.3048 ("jerk" "jerks")])}
+ {{"mol" -1} ([6.02214129e+23 ("N_A" "N_As" "avogadro" "avogadros")])}
+ {{"s" -2, "kg" 1}
+  ([1e-26 ("Jy" "Jys" "fluxunit" "fluxunits" "jansky" "janskys")]
+   [41840 ("langley" "langleys")])}
+ {{"lb" 1}
+  ([0.45359237 ("lb")]
+   [100 ("short-hundredweight" "short-hundredweights")])}
+ {{"mol" 1} ([1 ("mol" "mole" "moles")])}
+ {{"s" -1, "m" 2}
+  ([0.0001 ("St" "Sts" "lentor" "lentors" "stoke" "stokes")])}
+ {{"s" -1, "kg" 1, "m" -1}
+  ([0.1 ("P" "poise" "poises")]
+   [1 ("poiseuille" "poiseuilles")]
+   [6894.757293168362 ("reyn" "reyns")])}
+ {{"dollar" 1, "kg" -1} ()}
+ {{"kg" 1, "m" 3} ()}
+ {{"K" -2, "s" -2, "kg" 1, "m" 2}
+  ([1 ("thermalfarad" "thermalfarads")])}
+ {{"<<IMAGINARY_UNIT>>" 1} ([1 ("i" "?" "?s" "?" "?s")])}
+ {{"s" -2, "kg" 1, "A" -1}
+  ([0.0001 ("Gs" "gauss")] [1 ("T" "tesla" "teslas")])}
+ {{"s" -1, "kg" 1, "m" 2}
+  ([1.0545717253362894e-34
+    ("atomicaction" "atomicactions" "hbar" "hbars" "?" "?s")]
+   [6.62606957e-34 ("h" "plancksconstant" "plancksconstants" "h" "hs")]
+   [1 ("planck" "plancks")])}
+ {{"kg" 1, "m" 2}
+  ([0.17500998881550195
+    ("lbindex"
+     "lbindexbristol"
+     "lbindexbristols"
+     "lbindexs"
+     "poundindexbristolpaper"
+     "poundindexbristolpapers"
+     "poundindexpaper"
+     "poundindexpapers")]
+   [0.18482504427107369
+    ("lbblotting"
+     "lbblottings"
+     "poundblottingpaper"
+     "poundblottingpapers")]
+   [0.18533844717182665
+    ("lbbristol"
+     "lbbristols"
+     "lbpostcard"
+     "lbpostcards"
+     "lbweddingbristol"
+     "lbweddingbristols"
+     "poundbristolpaper"
+     "poundbristolpapers"
+     "poundpostcardpaper"
+     "poundpostcardpapers"
+     "poundweddingbristol"
+     "poundweddingbristols")]
+   [0.1862252340004
+    ("lbblanks" "poundblankspaper" "poundblankspapers")]
+   [0.18935506986595294
+    ("lbbond"
+     "lbbonds"
+     "lbcopy"
+     "lbcopys"
+     "lbledger"
+     "lbledgers"
+     "lbwriting"
+     "lbwritings"
+     "poundbondpaper"
+     "poundbondpapers"
+     "poundcopypaper"
+     "poundcopypapers"
+     "poundledgerpaper"
+     "poundledgerpapers"
+     "poundwritingpaper"
+     "poundwritingpapers")]
+   [0.19021577472898
+    ("lbcover" "lbcovers" "poundcoverpaper" "poundcoverpapers")]
+   [0.2194797400719
+    ("lbbag"
+     "lbbags"
+     "lbglassine"
+     "lbglassines"
+     "lbnewsprint"
+     "lbnewsprints"
+     "lbposter"
+     "lbposters"
+     "lbtag"
+     "lbtags"
+     "lbtissue"
+     "lbtissues"
+     "lbwaxing"
+     "lbwaxings"
+     "lbwrapping"
+     "lbwrappings"
+     "poundbagpaper"
+     "poundbagpapers"
+     "poundglassinepaper"
+     "poundglassinepapers"
+     "poundnewsprintpaper"
+     "poundnewsprintpapers"
+     "poundposterpaper"
+     "poundposterpapers"
+     "poundtagpaper"
+     "poundtagpapers"
+     "poundtissuepaper"
+     "poundtissuepapers"
+     "poundwaxingpaper"
+     "poundwaxingpapers"
+     "poundwrappingpaper"
+     "poundwrappingpapers")]
+   [0.222406136606192
+    ("lbbible"
+     "lbbibles"
+     "lbbook"
+     "lbbooks"
+     "lboffset"
+     "lboffsets"
+     "lbtext"
+     "lbtexts"
+     "poundbiblepaper"
+     "poundbiblepapers"
+     "poundbookpaper"
+     "poundbookpapers"
+     "poundoffsetpaper"
+     "poundoffsetpapers"
+     "poundtextpaper"
+     "poundtextpapers")])}
+ {{"s" -2, "kg" 1, "m" -1}
+  ([0.1 ("barad" "barads" "barye" "baryes")]
+   [1 ("Pa" "Pas" "pascal" "pascals" "tor" "tors")]
+   [9.80665 ("mmH2O" "mmH2Os")]
+   [100 ("vac" "vacs")]
+   [133.32236842105263 ("Torr" "Torrs" "torr" "torrs")]
+   [133.322387415 ("mmHg" "mmHgs")]
+   [249.08891 ("inH2O" "inH2Os")]
+   [1000 ("pieze" "piezes")]
+   [3386.388640341
+    ("inHg"
+     "inHgs"
+     "inchesmercury"
+     "inchesmercurys"
+     "inchmercury"
+     "inchmercurys")]
+   [6894.757293168362 ("psi" "psia" "psias" "psis")]
+   [98066.5 ("at" "ats" "technicalatmosphere" "technicalatmospheres")]
+   [100000 ("bar" "bars")]
+   [101325 ("atm" "atmosphere" "atmospheres" "atms")]
+   [13789514.586336723 ("tsi" "tsis")]
+   [38492986.72642256 ("natural_gas" "naturalgas")]
+   [25439768642.08969 ("propane" "propanes")]
+   [36984087330.14078 ("gasoline" "gasolines")]
+   [37512431434.85707 ("kerosene" "kerosenes")])}
+ {{"s" -3, "m" 2}
+  ([3.8766666666666665 ("refrigeration" "refrigerations")])}
+ {{"bit" 1}
+  ([0.69314718056 ("nat" "nats")]
+   [1 ("bit")]
+   [3.32192809488 ("hartley" "hartleys")]
+   [4 ("nibble" "nibbles" "nybble" "nybbles")]
+   [8 ("byte" "bytes")])}
+ {{"s" 1, "kg" -1, "m" 1} ([10 ("rhe" "rhes")])}
+ {{"m" -3}
+  ([1056.6882094325936 ("scoopnumber" "scoopnumbers")]
+   [2.686780515696967e+25
+    ("amagat" "amagats" "loschmidt" "loschmidts")])}
+ {{"K" -1, "s" -2, "kg" 1, "m" 2}
+  ([1.3806488e-23
+    ("boltzmann"
+     "boltzmanns"
+     "boltzmannsconstant"
+     "boltzmannsconstants"
+     "k")]
+   [1 ("thermalcoulomb" "thermalcoulombs")]
+   [4186.8 ("clausius")])}
+ {{"s" -2, "kg" 1, "A" -1, "m" 2}
+  ([1e-8 ("Mx" "Mxs" "maxwell" "maxwells")]
+   [1.2566370614359172e-7 ("unitpole" "unitpoles")]
+   [0.00006 ("kappline" "kapplines")]
+   [1 ("Wb" "Wbs" "weber" "webers")]
+   [299.792458 ("statmaxwell" "statmaxwells")])}
+ {{"s" -3, "kg" 1} ([100000 ("finsenunit" "finsenunits")])}
+ {{"kg" -1, "m" 1}
+  ([201.59069254185206 ("asbestoscut" "asbestoscuts")]
+   [604.7720776255562
+    ("linenyarncount" "linenyarncounts" "yarncut" "yarncuts")]
+   [1000 ("metricyarncount" "metricyarncounts")]
+   [1128.9078782343715 ("worstedyarncount" "worstedyarncounts")]
+   [1693.3618173515572 ("cottonyarncount" "cottonyarncounts")]
+   [2015.9069254185206 ("typp" "typps")]
+   [3225.451080669633 ("woolyarnrun" "woolyarnruns")])}
+ {{"A" 1}
+  ([3.3356409519815207e-10
+    ("statamp" "statampere" "statamperes" "statamps")]
+   [0.7957747154594768 ("Gb" "Gbs" "Gi" "Gis" "gilbert" "gilberts")]
+   [0.999835 ("intamp" "intampere" "intamperes" "intamps")]
+   [1 ("A" "amp" "ampere" "amperes" "amps" "galvat" "galvats")]
+   [10
+    ("Bi"
+     "Bis"
+     "aA"
+     "aAs"
+     "abamp"
+     "abampere"
+     "abamperes"
+     "abamps"
+     "biot"
+     "biots")])}
+ {{"s" 4, "kg" -1, "A" 2, "m" -3}
+  ([8.854187817620388e-12
+    ("electricconstant"
+     "electricconstants"
+     "epsilon0"
+     "epsilon0s"
+     "permittivityofvacuum"
+     "permittivityofvacuums")])}
+ {{"s" 2, "kg" -1, "A" 2, "m" -2} ([1 ("sturgeon" "sturgeons")])}
+ {{"m" 2}
+  ([9.999999999999998e-53 ("shed" "sheds")]
+   [6.652458734e-29
+    ("ThomsonCrossSection"
+     "ThomsonCrossSections"
+     "sigma_e"
+     "sigma_es"
+     "sigma_t"
+     "sigma_ts")]
+   [1e-28 ("barn" "barns")]
+   [9.869232667160128e-13 ("darcy" "darcys")]
+   [5.067074790974977e-10
+    ("circularmil" "circularmils" "cmil" "cmils")]
+   [5.067074790974977e-7 ("mcm" "mcms")]
+   [0.0005067074790974977 ("circularinch" "circularinchs")]
+   [0.000962 ("A10paper" "A10papers")]
+   [0.00112 ("C10paper" "C10papers")]
+   [0.001364 ("B10paper" "B10papers")]
+   [0.001924 ("A9paper" "A9papers")]
+   [0.00228 ("C9paper" "C9papers")]
+   [0.002728 ("B9paper" "B9papers")]
+   [0.003848 ("A8paper" "A8papers")]
+   [0.004617 ("C8paper" "C8papers")]
+   [0.005456 ("B8paper" "B8papers")]
+   [0.00777 ("A7paper" "A7papers")]
+   [0.009234 ("C7paper" "C7papers")]
+   [0.011 ("B7paper" "B7papers")]
+   [0.01554 ("A6paper" "A6papers")]
+   [0.018468 ("C6paper" "C6papers")]
+   [0.022 ("B6paper" "B6papers")]
+   [0.03108 ("A5paper" "A5papers")]
+   [0.037098 ("C5paper" "C5papers")]
+   [0.044 ("B5paper" "B5papers")]
+   [0.049112804999999995 ("executivesize" "executivesizes")]
+   [0.06032246 ("Apaper" "Apapers" "lettersize" "lettersizes")]
+   [0.06237 ("A4paper" "A4papers")]
+   [0.074196 ("C4paper" "C4papers")]
+   [0.07677404 ("legalsize" "legalsizes")]
+   [0.08825 ("B4paper" "B4papers")]
+   [0.09290304 ("sabin" "sabins")]
+   [0.12064492 ("Bpaper" "Bpapers" "ledgersize" "ledgersizes")]
+   [0.12474 ("A3paper" "A3papers")]
+   [0.148392 ("C3paper" "C3papers")]
+   [0.1765 ("B3paper" "B3papers")]
+   [0.24128984 ("Cpaper" "Cpapers")]
+   [0.24948 ("A2paper" "A2papers")]
+   [0.296784 ("C2paper" "C2papers")]
+   [0.3535 ("B2paper" "B2papers")]
+   [0.4645152 ("flag" "flags")]
+   [0.48257968 ("Dpaper" "Dpapers")]
+   [0.499554 ("A1paper" "A1papers")]
+   [0.594216 ("C1paper" "C1papers")]
+   [0.707 ("B1paper" "B1papers")]
+   [0.96515936 ("Epaper" "Epapers")]
+   [0.999949 ("A0paper" "A0papers")]
+   [1.189349 ("C0paper" "C0papers")]
+   [1.414 ("B0paper" "B0papers")]
+   [1.62612578 ("jo" "jos" "tatamimat" "tatamimats")]
+   [2.7870912 ("rollwallpaper" "rollwallpapers")]
+   [3.25225156 ("tsubo" "tsubos")]
+   [20.2322176 ("basebox" "baseboxs")]
+   [100 ("are" "ares")]
+   [1011.718152468563 ("rood" "roods")]
+   [1261.6704 ("acnua" "acnuas" "squareactus")]
+   [1285.6129849778717 ("scotsrood" "scotsroods")]
+   [1638.8045256363484 ("irishrood" "irishroods")]
+   [2523.3408
+    ("iugera"
+     "iugeras"
+     "iugerum"
+     "iugerums"
+     "jugera"
+     "jugeras"
+     "jugerum"
+     "jugerums")]
+   [3418.868283313178 ("arpent" "arpents")]
+   [4046.8564224 ("intacre" "intacres")]
+   [4046.872609874252 ("acre" "acres")]
+   [5046.6816 ("heredia" "heredias" "heredium" "herediums")]
+   [5142.451939911487 ("scotsacre" "scotsacres")]
+   [6555.218102545394 ("irishacre" "irishacres")]
+   [10000 ("ha" "has" "hectare" "hectares")]
+   [504668.16 ("centuria" "centurias" "centurium" "centuriums")]
+   [647499.6175798803 ("homestead" "homesteads")]
+   [2589998.470319521 ("section" "sections")]
+   [93239944.93150276 ("township" "townships")]
+   [148847000000000 ("landarea" "landareas")]
+   [361254000000000 ("oceanarea" "oceanareas")])}
+ {{"kg" 1, "m" -2}
+  ([0.001 ("gsm" "gsms")]
+   [0.00488242763638305
+    ("lbboxboard"
+     "lbboxboards"
+     "lbpaperboard"
+     "lbpaperboards"
+     "poundboxboard"
+     "poundboxboards"
+     "poundpaperboard"
+     "poundpaperboards")])}
+ {{"m" -3, "mol" 1} ([1000 ("Molar" "Molars" "molar" "molars")])}
+ {{"kg" 1, "m" -3}
+  ([0.001 ("gammil" "gammils")]
+   [317.0064628297781
+    ("cocoa_sifted"
+     "cocoa_sifteds"
+     "dutchcocoa_sifted"
+     "dutchcocoa_sifteds")]
+   [346.5937326938908 ("cocoa_spooned" "cocoa_spooneds")]
+   [388.8612610711945 ("dutchcocoa_spooned" "dutchcocoa_spooneds")]
+   [401.54151958438564
+    ("cocoa_scooped"
+     "cocoa_scoopeds"
+     "dutchcocoa_scooped"
+     "dutchcocoa_scoopeds")]
+   [419.3924956091381 ("cakeflour_sifted" "cakeflour_sifteds")]
+   [479.3057092675864
+    ("cakeflour_spooned"
+     "cakeflour_spooneds"
+     "flour_sifted"
+     "flour_sifteds"
+     "powdered_sugar"
+     "powdered_sugars")]
+   [507.21034052764503 ("cornstarch" "cornstarchs")]
+   [509.26231609681054
+    ("breadflour_sifted"
+     "breadflour_sifteds"
+     "flour_spooned"
+     "flour_spooneds")]
+   [539.2189229260347
+    ("breadflour_spooned"
+     "breadflour_spooneds"
+     "cakeflour_scooped"
+     "cakeflour_scoopeds")]
+   [568.0755813909624 ("koshersalt" "koshersalts")]
+   [599.132136584483 ("flour_scooped" "flour_scoopeds")]
+   [659.0453502429312 ("breadflour_scooped" "breadflour_scoopeds")]
+   [789.3 ("alcohol" "alcohols" "ethanol" "ethanols")]
+   [791.3 ("methanol" "methanols")]
+   [808.8283843890521 ("shortening" "shortenings")]
+   [814.8197057548969 ("butter_clarified" "butter_clarifieds")]
+   [845.350567546075 ("sugar" "sugars")]
+   [898.6982048767245 ("vegetable_oil" "vegetable_oils")]
+   [917.2053657874914 ("brownsugar_light" "brownsugar_lights")]
+   [933.2670265708667 ("baking_powder" "baking_powders")]
+   [958.6114185351728 ("butter" "butters")]
+   [980.6066583534471 ("heavycream" "heavycreams")]
+   [1000 ("H2O" "H2Os" "water" "waters" "wc" "wcs")]
+   [1010.1939282175597 ("brownsugar_dark" "brownsugar_darks")]
+   [1022.8741867307508 ("milk" "milks" "sourcream" "sourcreams")]
+   [1078.4378458520694 ("cocoa_butter" "cocoa_butters")]
+   [1217.304817266348 ("salt" "salts")]
+   [1348.0473073150868 ("molasses")]
+   [1378.0039141443108 ("cornsyrup" "cornsyrups")]
+   [1407.960520973535 ("honey" "honeys")]
+   [13595.1 ("Hg" "Hgs" "mercurydensity" "mercurydensitys")])}
+ {{"kg" 1, "mol" -1}
+  ([0.0010079400000000001 ("hydrogen" "hydrogens")]
+   [0.004002602000000001 ("helium" "heliums")]
+   [0.006941 ("lithium" "lithiums")]
+   [0.009012181999999999 ("beryllium" "berylliums")]
+   [0.010811 ("boron" "borons")]
+   [0.012010999999999999 ("carbon" "carbons")]
+   [0.01400674 ("nitrogen" "nitrogens")]
+   [0.0159994 ("oxygen" "oxygens")]
+   [0.0189984032 ("fluorine" "fluorines")]
+   [0.020179700000000002 ("neon" "neons")]
+   [0.022989768 ("sodium" "sodiums")]
+   [0.024305 ("magnesium" "magnesiums")]
+   [0.026981539000000002
+    ("aluminium" "aluminiums" "aluminum" "aluminums")]
+   [0.0280855 ("silicon" "silicons")]
+   [0.030973762000000002 ("phosphorus")]
+   [0.032066000000000004 ("sulfur" "sulfurs" "sulphur" "sulphurs")]
+   [0.035452700000000004 ("chlorine" "chlorines")]
+   [0.0390983 ("potassium" "potassiums")]
+   [0.039948000000000004 ("argon" "argons")]
+   [0.040078 ("calcium" "calciums")]
+   [0.04495591 ("scandium" "scandiums")]
+   [0.047867 ("titanium" "titaniums")]
+   [0.0509415 ("vanadium" "vanadiums")]
+   [0.051996099999999996 ("chromium" "chromiums")]
+   [0.054938049999999995 ("manganese" "manganeses")]
+   [0.055845 ("iron" "irons")]
+   [0.0586934 ("nickel" "nickels")]
+   [0.0589332 ("cobalt" "cobalts")]
+   [0.063546 ("copper" "coppers")]
+   [0.06539 ("zinc" "zincs")]
+   [0.06972300000000001 ("gallium" "galliums")]
+   [0.07261000000000001 ("germanium" "germaniums")]
+   [0.07492159 ("arsenic" "arsenics")]
+   [0.07895999999999999 ("selenium" "seleniums")]
+   [0.079904 ("bromine" "bromines")]
+   [0.0838 ("krypton" "kryptons")]
+   [0.0854678 ("rubidium" "rubidiums")]
+   [0.08762 ("strontium" "strontiums")]
+   [0.08890585000000001 ("yttrium" "yttriums")]
+   [0.091224 ("zirconium" "zirconiums")]
+   [0.09290638 ("niobium" "niobiums")]
+   [0.09594 ("molybdenum" "molybdenums")]
+   [0.0979072 ("technetium" "technetiums")]
+   [0.10107 ("ruthenium" "rutheniums")]
+   [0.10290550000000001 ("rhodium" "rhodiums")]
+   [0.10642 ("palladium" "palladiums")]
+   [0.1078682 ("silver" "silvers")]
+   [0.112411 ("cadmium" "cadmiums")]
+   [0.114818 ("indium" "indiums")]
+   [0.11871 ("tin" "tins")]
+   [0.12176000000000001 ("antimony" "antimonys")]
+   [0.12690447000000002 ("iodine" "iodines")]
+   [0.1276 ("tellurium" "telluriums")]
+   [0.13129 ("xenon" "xenons")]
+   [0.13290543 ("cesium" "cesiums")]
+   [0.137327 ("barium" "bariums")]
+   [0.1389055 ("lanthanum" "lanthanums")]
+   [0.14011500000000002 ("cerium" "ceriums")]
+   [0.14090765 ("praseodymium" "praseodymiums")]
+   [0.14424 ("neodymium" "neodymiums")]
+   [0.1449127 ("promethium" "promethiums")]
+   [0.15036000000000002 ("samarium" "samariums")]
+   [0.15196500000000002 ("europium" "europiums")]
+   [0.15725 ("gadolinium" "gadoliniums")]
+   [0.15892534 ("terbium" "terbiums")]
+   [0.1625 ("dysprosium" "dysprosiums")]
+   [0.16493032 ("holmium" "holmiums")]
+   [0.16726 ("erbium" "erbiums")]
+   [0.16893421 ("thullium" "thulliums")]
+   [0.17304 ("ytterbium" "ytterbiums")]
+   [0.174967 ("lutetium" "lutetiums")]
+   [0.17849 ("hafnium" "hafniums")]
+   [0.1809479 ("tantalum" "tantalums")]
+   [0.18384 ("tungsten" "tungstens")]
+   [0.18620699999999998 ("rhenium" "rheniums")]
+   [0.19022999999999998 ("osmium" "osmiums")]
+   [0.19221700000000003 ("iridium" "iridiums")]
+   [0.19508 ("platinum" "platinums")]
+   [0.19696654000000002 ("gold" "golds")]
+   [0.20059000000000002 ("mercury" "mercurys")]
+   [0.2043833 ("thallium" "thalliums")]
+   [0.2072 ("lead" "leads")]
+   [0.20898037 ("bismuth" "bismuths")]
+   [0.2089824 ("polonium" "poloniums")]
+   [0.2099871 ("astatine" "astatines")]
+   [0.22201759999999998 ("radon" "radons")]
+   [0.22301970000000002 ("francium" "franciums")]
+   [0.2260254 ("radium" "radiums")]
+   [0.22702780000000003 ("actinium" "actiniums")]
+   [0.23103588 ("protactinium" "protactiniums")]
+   [0.2320381 ("thorium" "thoriums")]
+   [0.23704820000000001 ("neptunium" "neptuniums")]
+   [0.2380289 ("uranium" "uraniums")]
+   [0.2430614 ("americium" "americiums")]
+   [0.2440642 ("plutonium" "plutoniums")]
+   [0.24707030000000002 ("berkelium" "berkeliums" "curium" "curiums")]
+   [0.2510796 ("californium" "californiums")]
+   [0.252083 ("einsteinium" "einsteiniums")]
+   [0.2570951 ("fermium" "fermiums")]
+   [0.25810000000000005 ("mendelevium" "mendeleviums")]
+   [0.2591009 ("nobelium" "nobeliums")]
+   [0.26211 ("lawrencium" "lawrenciums")])}
+ {{"s" -2, "kg" 1, "A" -2, "m" 2}
+  ([1e-9 ("abhenry" "abhenrys")]
+   [1 ("H" "henries" "henry" "henrys")]
+   [898755178736.8176 ("stathenry" "stathenrys")])}
+ {{"s" -1, "kg" 1, "m" 1} ([0.00001 ("bole" "boles")])}
+ {{"dollar" 1}
+  ([0.01 ("cent" "cents")]
+   [1 ("USD" "USDs" "buck" "bucks" "dollar")]
+   [5 ("fin" "fins")]
+   [10 ("sawbuck" "sawbucks")])}
+ {{"s" -2, "kg" 1, "m" 1}
+  ([0.00001 ("dyn" "dyne" "dynes" "dyns")]
+   [0.0086409346485 ("ouncedal" "ouncedals")]
+   [0.00980665 ("pond" "ponds")]
+   [0.138254954376 ("pdl" "pdls" "poundal" "poundals")]
+   [1 ("N" "newton" "newtons")]
+   [4.4482216152605 ("lbf" "lbfs")]
+   [9.80665 ("kgf" "kgfs")]
+   [143.1172982391548 ("slugf" "slugfs")]
+   [276.509908752 ("tondal" "tondals")]
+   [1000 ("funal" "funals" "sthene" "sthenes")]
+   [1717.4075788698576 ("slinchf" "slinchfs")]
+   [4448.2216152605 ("kip" "kips")]
+   [8896.443230521 ("tonf" "tonfs")])}
+ {{"K" -4, "s" -3, "kg" 1}
+  ([5.670372622591329e-8
+    ("sigma" "sigmas" "stefanboltzmann" "stefanboltzmanns")])}
+ {{"K" -1, "s" -3, "kg" 1, "m" 2}
+  ([1 ("thermalampere" "thermalamperes")])}
+ {{"s" -3, "kg" 1, "m" 2}
+  ([0.000133322387415 ("lusec" "lusecs")]
+   [0.00168875 ("sccm" "sccms")]
+   [0.02814583333333333 ("slph" "slphs")]
+   [0.101325 ("sccs")]
+   [0.797001244704 ("scfh" "scfhs")]
+   [1 ("W" "watt" "watts")]
+   [1.68875 ("slpm" "slpms")]
+   [47.82007468224 ("scfm" "scfms")]
+   [250 ("donkeypower" "donkeypowers")]
+   [293.0710701722222 ("mbh" "mbhs")]
+   [735.49875 ("metrichorsepower" "metrichorsepowers")]
+   [745.6998715822702 ("horsepower" "horsepowers" "hp" "hps")]
+   [745.7 ("brhorsepower" "brhorsepowers")]
+   [746 ("electrichorsepower" "electrichorsepowers")]
+   [746.043 ("waterhorsepower" "waterhorsepowers")]
+   [980.665 ("poncelet" "poncelets")]
+   [3516.8528420666667
+    ("tonref"
+     "tonrefrigeration"
+     "tonrefrigerations"
+     "tonrefs"
+     "tonsrefrigeration"
+     "tonsrefrigerations")]
+   [9809.5 ("boilerhorsepower" "boilerhorsepowers")]
+   [3.86e+26 ("sunpower" "sunpowers")])}
+ {{"kg" 1}
+  ([9.10938291e-31 ("atomicmass" "electronmass" "m_e" "m_es")]
+   [1.883531475e-28 ("m_mu" "m_muon" "m_muons" "m_mus" "muonmass")]
+   [1.65981e-27 ("amu_phys")]
+   [1.66026e-27 ("amu_chem" "amu_chems")]
+   [1.660538921e-27
+    ("amu"
+     "amus"
+     "atomicmassunit"
+     "atomicmassunits"
+     "dalton"
+     "daltons"
+     "m_u"
+     "m_us"
+     "u")]
+   [1.672621777e-27 ("m_p" "m_ps" "protonmass")]
+   [1.674927351e-27 ("m_n" "m_ns" "neutronmass")]
+   [3.16747e-27 ("m_tau" "m_taus" "taumass")]
+   [3.34358348e-27 ("deuteronmass" "m_d" "m_ds")]
+   [6.64465675e-27 ("alphaparticlemass" "m_alpha" "m_alphas")]
+   [2.812452690972222e-10 ("blanc" "blancs")]
+   [6e-10 ("iupenicillin" "iupenicillins")]
+   [1e-9 ("gamma" "gammas" "mcg" "mcgs")]
+   [6.749886458333334e-9 ("periot" "periots")]
+   [2.176509252445312e-8 ("m_P" "m_Ps" "planckmass")]
+   [4.167e-8 ("iuinsulin" "iuinsulins")]
+   [6.28e-8 ("iudiptheria" "iudiptherias")]
+   [1.3499772916666667e-7 ("droit" "droits")]
+   [0.000002 ("jewelerspoint" "jewelerspoints")]
+   [0.0000032399455 ("mite" "mites")]
+   [0.00005 ("metricgrain" "metricgrains")]
+   [0.00006479891 ("gr" "grain" "grains" "grs")]
+   [0.00008988500000000001 ("crith" "criths")]
+   [0.00015
+    ("thaisadtahng" "thaisadtahngs" "thaisatang" "thaisatangs")]
+   [0.000182246934375 ("silverkirat" "silverkirats")]
+   [0.00019439673 ("tradekirat" "tradekirats")]
+   [0.0002 ("carat" "carats" "ct" "cts" "metriccarat" "metriccarats")]
+   [0.00020495895232999997 ("englishcarat" "englishcarats")]
+   [0.00045359237 ("paperM" "paperMs")]
+   [0.0005683404397916667 ("romanobol" "romanobols")]
+   [0.0007289877375 ("atticobol" "atticobols")]
+   [0.001 ("g" "gm" "gms" "gram" "gramme" "grammes" "grams")]
+   [0.00103678256 ("aeginaobol" "aeginaobols")]
+   [0.0011366808795833334
+    ("scriptulum" "scriptulums" "scrupula" "scrupulas")]
+   [0.0012959782 ("scruple" "scruples")]
+   [0.001457975475
+    ("mercpennyweight"
+     "mercpennyweights"
+     "towerpennyweight"
+     "towerpennyweights")]
+   [0.00155517384 ("dwt" "dwts" "pennyweight" "pennyweights")]
+   [0.0017718451953125 ("dr" "dram" "drams" "drs")]
+   [0.001875 ("thaifung" "thaifungs")]
+   [0.0019277675725 ("trondrop" "trondrops")]
+   [0.002273361759166667 ("semisextula" "semisextulas")]
+   [0.00291595095 ("silverdirhem" "silverdirhems")]
+   [0.00311034768 ("tradedirhem" "tradedirhems")]
+   [0.00375 ("thaisalung" "thaisalungs")]
+   [0.0037799364166666667 ("chinesemace" "chinesemaces")]
+   [0.0038879346 ("apdram" "apdrams")]
+   [0.004373926425 ("atticdrachmae" "atticdrachmaes")]
+   [0.004546723518333334 ("sextula" "sextulas")]
+   [0.00622069536 ("aeginadrachmae" "aeginadrachmaes")]
+   [0.0068200852775 ("siscilius")]
+   [0.00874785285 ("atticstater" "atticstaters")]
+   [0.01244139072 ("aeginastater" "aeginastaters")]
+   [0.013640170555 ("semuncia" "semuncias")]
+   [0.015 ("thaibaht" "thaibahts" "thaitical" "thaiticals")]
+   [0.018600000000000002 ("eggyolk" "eggyolks")]
+   [0.025 ("metricounce" "metricounces" "mounce" "mounces")]
+   [0.02728034111
+    ("romanounce" "romanounces" "uncia" "unciae" "unciaes" "uncias")]
+   [0.028349523125 ("lid" "lids" "ounce" "ounces" "ozs")]
+   [0.0291595095
+    ("mercounce"
+     "mercounces"
+     "silverwukiyeh"
+     "silverwukiyehs"
+     "towerounce"
+     "towerounces")]
+   [0.029166666666666667 ("assayton" "assaytons")]
+   [0.03 ("eggwhite" "eggwhites")]
+   [0.03084428116 ("tronounce" "tronounces")]
+   [0.0311034768
+    ("apounce"
+     "apounces"
+     "tradewukiyeh"
+     "tradewukiyehs"
+     "troyounce"
+     "troyounces")]
+   [0.03266666666666666 ("brassayton" "brassaytons")]
+   [0.03779936416666667 ("chinesetael" "chinesetaels")]
+   [0.040920511665 ("sescuncia" "sescuncias")]
+   [0.05 ("egg" "eggs")]
+   [0.05456068222 ("sextans")]
+   [0.05669904625 ("mancus")]
+   [0.06 ("thaitamlung" "thaitamlungs")]
+   [0.08184102333 ("quadrans")]
+   [0.10394825145833334 ("liang" "liangs")]
+   [0.10912136444 ("triens")]
+   [0.1133980925 ("stickbutter" "stickbutters")]
+   [0.13640170555 ("quincunx" "quincunxs")]
+   [0.16368204666 ("semis")]
+   [0.19096238777 ("seprunx" "seprunxs")]
+   [0.21824272888 ("bes")]
+   [0.24552306999 ("dodrans")]
+   [0.2728034111 ("dextans" "romanaspound" "romanaspounds")]
+   [0.30008375221 ("deunx" "deunxs")]
+   [0.32736409332
+    ("libra" "librae" "libraes" "libras" "romanpound" "romanpounds")]
+   [0.349914114
+    ("arabicsilverpound"
+     "arabicsilverpounds"
+     "silverrotl"
+     "silverrotls"
+     "towerpound"
+     "towerpounds")]
+   [0.3732417216
+    ("appound"
+     "appounds"
+     "arabictradepound"
+     "arabictradepounds"
+     "traderotl"
+     "traderotls"
+     "troypound"
+     "troypounds")]
+   [0.4373926425 ("atticmina" "atticminas" "mercpound" "mercpounds")]
+   [0.45359237 ("lbm" "lbms" "lbs" "pound" "pounds")]
+   [0.5 ("chinesecatty" "chinesecattys")]
+   [0.6 ("thaicatty" "thaicattys")]
+   [0.6047898266666667 ("oldchinesecatty" "oldchinesecattys")]
+   [0.6168856232 ("tronpound" "tronpounds")]
+   [0.622069536 ("aeginamina" "aeginaminas")]
+   [0.980665 ("glug" "glugs")]
+   [1 ("key" "keys" "kg" "kilogram" "kilograms")]
+   [1.1339809250000001 ("mast" "masts")]
+   [1.2 ("thaichang" "thaichangs")]
+   [3.17514659 ("clove" "cloves" "woolclove" "woolcloves")]
+   [5.669904625 ("leadstone" "leadstones")]
+   [6.35029318 ("stone" "stones" "woolstone" "woolstones")]
+   [9.80665 ("hyl" "hyls")]
+   [9.8701699712 ("tronstone" "tronstones")]
+   [12.70058636 ("brquartermass" "wooltod" "wooltods")]
+   [14.51495584 ("oatbushel" "oatbushels")]
+   [14.593902937206364 ("geepound" "geepounds" "slug" "slugs")]
+   [15.42214058 ("canada_oatbushel" "canada_oatbushels")]
+   [20.41165665 ("ricebushel" "ricebushels")]
+   [21.77243376 ("barleybushel" "barleybushels")]
+   [25.40117272
+    ("cornbushel"
+     "cornbushels"
+     "oldhaytruss"
+     "ryebushel"
+     "ryebushels")]
+   [26.24355855 ("attictalent" "attictalents")]
+   [27.2155422
+    ("newhaytruss"
+     "soybeanbushel"
+     "soybeanbushels"
+     "wheatbushel"
+     "wheatbushels")]
+   [31.7514659 ("fotmal" "fotmals")]
+   [37.32417216 ("aeginatalent" "aeginatalents")]
+   [45.359237
+    ("cental"
+     "centals"
+     "centner"
+     "centners"
+     "cwt"
+     "cwts"
+     "hundredweight"
+     "hundredweights"
+     "shorthundredweight"
+     "shorthundredweights")]
+   [50 ("chinesepicul" "chinesepiculs")]
+   [50.80234544
+    ("brhundredweight"
+     "brhundredweights"
+     "longhundredweight"
+     "longhundredweights")]
+   [60 ("thaihap" "thaihaps" "thaipicul" "thaipiculs")]
+   [60.47898266666667 ("oldchinesepicul" "oldchinesepiculs")]
+   [79.37866475 ("leadwey" "leadweys")]
+   [82.55381134 ("woolwey" "woolweys")]
+   [100 ("quintal" "quintals")]
+   [165.10762268 ("woolsack" "woolsacks")]
+   [175.1268352464764 ("slinch" "slinchs")]
+   [226.796185 ("shortquarter" "shortquarters")]
+   [330.21524536 ("woolsarpler" "woolsarplers")]
+   [907.18474 ("shortton" "shorttons" "ton" "tons")]
+   [914.44221792 ("oldhayload" "oldhayloads")]
+   [952.543977 ("fothers")]
+   [979.7595192 ("newhayload" "newhayloads")]
+   [1000 ("metricton" "metrictons" "t" "tonne" "tonnes")]
+   [1016.0469088 ("brton" "brtons" "longton" "longtons")]
+   [1200 ("thaikoyan" "thaikoyans")]
+   [1981.29147216 ("woollast" "woollasts")]
+   [1.9e+21 ("charonmass")]
+   [1.27e+22 ("plutomass")]
+   [4.8e+22 ("europamass")]
+   [7.3483e+22 ("moonmass")]
+   [8.93e+22 ("iomass")]
+   [1.08e+23 ("callistomass")]
+   [1.35e+23 ("titanmass")]
+   [1.48e+23 ("ganymedemass")]
+   [3.3022e+23 ("mercurymass")]
+   [6.4191e+23 ("marsmass")]
+   [4.869e+24 ("venusmass")]
+   [5.9742e+24 ("earthmass")]
+   [8.6625e+25 ("uranusmass")]
+   [1.0278e+26 ("neptunemass")]
+   [5.685e+26 ("saturnmass")]
+   [1.8988e+27 ("jupitermass")]
+   [1.9891e+30 ("sunmass")])}
+ {{"s" -3, "kg" 1, "A" -1, "m" 1} ()}
+ {{"s" -3, "kg" 1, "A" -2, "m" 2}
+  ([1e-9 ("abohm" "abohms")]
+   [0.000001 ("microhm" "microhms")]
+   [0.9534 ("siemensunit" "siemensunits")]
+   [1 ("ohm" "ohms" "O" "Os" "?" "?s")]
+   [1.000495 ("intohm" "intohms")]
+   [1000 ("kilohm" "kilohms")]
+   [25812.807423161226 ("R_K" "R_Ks")]
+   [1000000 ("megohm" "megohms")]
+   [898755178736.8176 ("statohm" "statohms")])}
+ {{"s" 1, "cd" 1} ([1 ("lumberg" "lumbergs" "talbot" "talbots")])}
+ {{"oz" 1} ([0.028349523125 ("oz")] [1 ("ozt" "ozts")])}
+ {{"m" 3}
+  ([1e-9 ("lambda" "lambdas")]
+   [5e-8 ("drop" "drops")]
+   [5.9193880208333334e-8
+    ("brminim" "brminims" "imperialminim" "imperialminims")]
+   [6.1611519921875e-8 ("minim" "minims")]
+   [0.000001 ("cc" "ccs")]
+   [0.0000011838776041666667
+    ("brscruple"
+     "brscruples"
+     "fluidscruple"
+     "fluidscruples"
+     "imperialscruple"
+     "imperialscruples")]
+   [0.0000035516328125
+    ("brdram" "brdrams" "imperialdram" "imperialdrams")]
+   [0.0000036966911953125 ("fldr" "fldrs" "fluiddram" "fluiddrams")]
+   [0.00000492892159375 ("teaspoon" "teaspoons" "tsp" "tsps")]
+   [0.000005 ("brteaspoon" "brteaspoons" "brtsp" "brtsps")]
+   [0.00001 ("dessertspoon" "dessertspoons" "dsp" "dsps")]
+   [0.000012085459699999995 ("cochlearia" "cochlearias")]
+   [0.00001478676478125
+    ("Tbsp"
+     "Tbsps"
+     "Tsp"
+     "Tsps"
+     "tablespoon"
+     "tablespoons"
+     "tbl"
+     "tbls"
+     "tbsp"
+     "tbsps")]
+   [0.000015 ("brtablespoon" "brtablespoons" "brtbl" "brtbls")]
+   [0.000017251225578124998 ("eggyolkvolume" "eggyolkvolumes")]
+   [0.00002
+    ("austbl"
+     "austbls"
+     "australiatablespoon"
+     "australiatablespoons"
+     "eushot"
+     "eushots")]
+   [0.0000284130625
+    ("brfloz"
+     "brflozs"
+     "brfluidounce"
+     "brfluidounces"
+     "imperialfloz"
+     "imperialflozs"
+     "imperialfluidounce"
+     "imperialfluidounces")]
+   [0.0000295735295625
+    ("eggwhitevolume"
+     "eggwhitevolumes"
+     "floz"
+     "flozs"
+     "fluidounce"
+     "fluidounces"
+     "pony"
+     "ponys")]
+   [0.000044360294343750005 ("jigger" "jiggers" "shot" "shots")]
+   [0.000046824755140625 ("eggvolume" "eggvolumes")]
+   [0.00004834183879999999 ("cyathi" "cyathis")]
+   [0.00007251275819999999 ("acetabula" "acetabulas")]
+   [0.00010590500350067444 ("scotsgill" "scotsgills")]
+   [0.00011143151503687845 ("irishnoggin" "irishnoggins")]
+   [0.00011829411825 ("gill" "gills" "wineglass")]
+   [0.0001420653125
+    ("brgill"
+     "brgills"
+     "imperialgill"
+     "imperialgills"
+     "noggin"
+     "noggins")]
+   [0.00014502551639999998 ("quartaria" "quartarias" "quartarius")]
+   [0.0001875 ("winesplit" "winesplits")]
+   [0.00018942041666666668 ("brteacup" "brteacups")]
+   [0.0002 ("japancup" "japancups" "split" "splits")]
+   [0.0002365882365 ("cup" "cups")]
+   [0.00025 ("metriccup" "metriccups")]
+   [0.00027 ("greekkotyle" "greekkotyles")]
+   [0.000284130625 ("brcup" "brcups")]
+   [0.00029005103279999996 ("hemina" "heminae" "heminaes" "heminas")]
+   [0.000295735295625 ("number1can" "number1cans")]
+   [0.000375 ("metrictenth" "metrictenths")]
+   [0.00042362001400269775 ("mutchkin" "mutchkins")]
+   [0.0004457260601475138 ("irishpint" "irishpints")]
+   [0.00045 ("bloodunit" "bloodunits")]
+   [0.00047317426421909775 ("winepint" "winepints")]
+   [0.000473176473 ("pint" "pints" "pt" "pts")]
+   [0.00051103059084 ("log" "logs")]
+   [0.00054 ("xestes")]
+   [0.0005506104713575 ("drypint" "drypints")]
+   [0.0005618970616875 ("number2can" "number2cans")]
+   [0.00056826125 ("brpint" "brpints" "imperialpint" "imperialpints")]
+   [0.0005776413095661712
+    ("alepint" "alepints" "englishbeerpint" "englishbeerpints")]
+   [0.0005801020655999999 ("sextarii" "sextariis" "sextarius")]
+   [0.00075 ("metricfifth" "metricfifths" "winebottle" "winebottles")]
+   [0.0007570823568 ("fifth" "fifths")]
+   [0.0008280588277500001 ("number2_5can" "number2_5cans")]
+   [0.0008472400280053955 ("choppin" "choppins")]
+   [0.0008701530983999999 ("cheonix" "cheonixs")]
+   [0.0008914521202950276 ("irishquart" "irishquarts")]
+   [0.0009463485284381955 ("winequart" "winequarts")]
+   [0.000946352946
+    ("number3can" "number3cans" "qt" "qts" "quart" "quarts")]
+   [0.001
+    ("L"
+     "l"
+     "liter"
+     "liters"
+     "litre"
+     "litres"
+     "metricquart"
+     "metricquarts")]
+   [0.001000028 ("oldliter" "oldliters")]
+   [0.0010571721050064 ("chenice" "chenices")]
+   [0.00108 ("choinix" "choinixs")]
+   [0.001101220942715 ("dryquart" "dryquarts")]
+   [0.0011365225
+    ("brquart" "brquarts" "imperialquart" "imperialquarts")]
+   [0.0011552826191323425
+    ("alequart" "alequarts" "englishbeerquart" "englishbeerquarts")]
+   [0.0015 ("magnum" "magnums")]
+   [0.0016561176555 ("number5can" "number5cans")]
+   [0.001694480056010791 ("scotspint" "scotspints")]
+   [0.0017602164795600002 ("cab" "cabs")]
+   [0.0017829042405900551 ("irishpottle" "irishpottles")]
+   [0.0022504741550822983
+    ("scotswheatlippies" "scotswheatlippy" "scotswheatlippys")]
+   [0.002273045 ("pottle" "pottles")]
+   [0.002359737216
+    ("boardfeet" "boardfeets" "boardfoot" "boardfoots" "fbm" "fbms")]
+   [0.0026429302625159998 ("gomer" "gomers")]
+   [0.003 ("jeroboam" "jeroboams")]
+   [0.0031052206040625 ("number10can" "number10cans")]
+   [0.00324 ("khous")]
+   [0.0032830510117740313
+    ("scotsoatlippies" "scotsoatlippy" "scotsoatlippys")]
+   [0.003388960112021582 ("scotsquart" "scotsquarts")]
+   [0.0034806123935999995 ("congii" "congiis" "congius")]
+   [0.0035658084811801103 ("irishgallon" "irishgallons")]
+   [0.003785394113752782 ("winegallon" "winegallons")]
+   [0.003785411784 ("gal" "gallon" "gallons" "gals")]
+   [0.00440488377086 ("drygallon" "drygallons")]
+   [0.0045000000000000005 ("rehoboam" "rehoboams")]
+   [0.00454609
+    ("brgallon"
+     "brgallons"
+     "canadiangallon"
+     "canadiangallons"
+     "cangallon"
+     "cangallons"
+     "imperialgallon"
+     "imperialgallons")]
+   [0.00462113047652937
+    ("alegallon"
+     "alegallons"
+     "englishbeergallon"
+     "englishbeergallons")]
+   [0.004640816524799999 ("semodii" "semodiis" "semodius")]
+   [0.006 ("methuselah" "methuselahs")]
+   [0.00613236709008 ("hin" "hins")]
+   [0.0071316169623602205 ("irishpeck" "irishpecks")]
+   [0.008517176514 ("beercase" "beercases" "case" "cases")]
+   [0.00864 ("hekteos")]
+   [0.00880976754172 ("peck" "pecks" "pk" "pks")]
+   [0.009000000000000001 ("salmanazar" "salmanazars")]
+   [0.009001896620329193 ("scotswheatpeck" "scotswheatpecks")]
+   [0.00909218 ("brpeck" "brpecks" "imperialpeck" "imperialpecks")]
+   [0.009281633049599999 ("modii" "modiis" "modius")]
+   [0.012 ("balthazar" "balthazars")]
+   [0.012333674558408 ("seah" "seahs")]
+   [0.013132204047096125 ("scotsoatpeck" "scotsoatpecks")]
+   [0.013555840448086328 ("scotsgallon" "scotsgallons")]
+   [0.015 ("nebuchadnezzar" "nebuchadnezzars")]
+   [0.01622319336 ("splitdeal" "splitdeals")]
+   [0.01818436 ("bucket" "buckets")]
+   [0.020457405 ("pin" "pins")]
+   [0.027844899148799996
+    ("amphora"
+     "amphorae"
+     "amphoraes"
+     "amphoras"
+     "quadrantal"
+     "quadrantals")]
+   [0.028316846592 ("cf" "timberfoot" "timberfoots")]
+   [0.028526467849440882 ("irishbushel" "irishbushels")]
+   [0.029336941326 ("ponykeg" "ponykegs")]
+   [0.03244638672 ("wholedeal" "wholedeals")]
+   [0.034068706056 ("firkin" "firkins")]
+   [0.03523907016688 ("bu" "bus" "bushel" "bushels")]
+   [0.03600758648131677 ("scotswheatfirlot" "scotswheatfirlots")]
+   [0.03636872
+    ("brbushel" "brbushels" "imperialbushel" "imperialbushels")]
+   [0.037001023675224 ("ephah" "ephahs")]
+   [0.0370970354832 ("bath" "baths")]
+   [0.03888 ("metretes")]
+   [0.04091481 ("brfirkin" "brfirkins")]
+   [0.04647922416 ("brheapedbushel" "brheapedbushels")]
+   [0.05184 ("medimnos")]
+   [0.0525288161883845 ("scotsoatfirlot" "scotsoatfirlots")]
+   [0.05455308 ("firlot" "firlots")]
+   [0.057052935698881764 ("irishstrike" "irishstrikes")]
+   [0.058673882652 ("beerkeg" "beerkegs" "keg" "kegs")]
+   [0.06418455266124198 ("irishrundlet" "irishrundlets")]
+   [0.06489277344 ("deal" "deals")]
+   [0.06519227980872801 ("artaba" "artabas")]
+   [0.06813709404755007 ("winerundlet" "winerundlets")]
+   [0.07050000000000001 ("strike" "strikes")]
+   [0.10844672358469062 ("scotsbarrel" "scotsbarrels")]
+   [0.11232296715717348 ("irishbarrel" "irishbarrels")]
+   [0.11410587139776353 ("irishdrybarrel" "irishdrybarrels")]
+   [0.115627123584 ("drybarrel" "drybarrels")]
+   [0.117347765304 ("beerbarrel" "beerbarrels")]
+   [0.11923991458321263 ("winebarrel" "winebarrels")]
+   [0.11924047119600001 ("liquidbarrel" "liquidbarrels")]
+   [0.14158423296 ("barrelbulk" "barrelbulks")]
+   [0.1440303459252671 ("scotswheatboll" "scotswheatbolls")]
+   [0.14547488 ("bag" "bags" "coomb" "coombs")]
+   [0.14976395620956462 ("irishtierce" "irishtierces")]
+   [0.15711843620199858 ("alebarrel" "alebarrels")]
+   [0.15898655277761686 ("winetierce" "winetierces")]
+   [0.158987294928
+    ("barrel"
+     "barrels"
+     "bbl"
+     "bbls"
+     "oilbarrel"
+     "oilbarrels"
+     "petroleumbarrel"
+     "petroleumbarrels")]
+   [0.16365924
+    ("brbarrel" "brbarrels" "imperialbarrel" "imperialbarrels")]
+   [0.16636069715505733 ("englishbeerbarrel" "englishbeerbarrels")]
+   [0.170478375 ("cran" "crans")]
+   [0.18500511837612 ("letech" "letechs")]
+   [0.210115264753538 ("scotsoatboll" "scotsoatbolls")]
+   [0.21821232 ("boll" "bolls")]
+   [0.22464593431434696
+    ("irishhogshead" "irishhogsheads" "irishquarter" "irishquarters")]
+   [0.23567765430299792 ("alehogshead" "alehogsheads")]
+   [0.23847982916642527 ("winehogshead" "winehogsheads")]
+   [0.238480942392 ("hogshead" "hogsheads")]
+   [0.24954104573258595 ("englishbeerhogshead" "englishbeerhogsheads")]
+   [0.28640367 ("brhogshead" "brhogsheads")]
+   [0.29094976 ("brquarter" "brquarters" "seam" "seams")]
+   [0.29952791241912924 ("irishpuncheon" "irishpuncheons")]
+   [0.3179731055552337 ("winepuncheon" "winepuncheons")]
+   [0.32731848 ("puncheon" "puncheons")]
+   [0.36907764894 ("kor" "kors")]
+   [0.37001023675224 ("chomer" "chomers")]
+   [0.4492918686286939 ("irishpipe" "irishpipes")]
+   [0.453069545472 ("cordfeet" "cordfeets" "cordfoot" "cordfoots")]
+   [0.47695965833285053
+    ("winebutt" "winebutts" "winepipe" "winepipes")]
+   [0.5568979829759999 ("culleus")]
+   [0.8985837372573878 ("irishtun" "irishtuns")]
+   [0.9539193166657011 ("winetun" "winetuns")]
+   [0.99108963072 ("displacementton" "displacementtons")]
+   [1 ("st" "stere" "steres" "sts")]
+   [1.01832416 ("waterton" "watertons")]
+   [1.13267386368
+    ("freightton" "freighttons" "shippington" "shippingtons")]
+   [1.189307556864 ("brshippington" "brshippingtons")]
+   [1.208185454592 ("housecord" "housecords" "rick" "ricks")]
+   [1.30927392 ("brchaldron" "brchaldrons")]
+   [1.4547488 ("last" "lasts")]
+   [1.812278181888 ("facecord" "facecords")]
+   [2.3044855348042734 ("scotswheatchalder" "scotswheatchalders")]
+   [2.8316846592 ("ccf" "ccfs" "registerton" "registertons")]
+   [3.361844236056608 ("scotsoatchalder" "scotsoatchalders")]
+   [3.624556363776 ("cord" "cords")]
+   [4.67227968768 ("standard" "standards")]
+   [1233.4892384681489
+    ("acrefeet" "acrefeets" "acrefoot" "acrefoots")])}
+ {{"s" -3, "kg" 1, "A" -1, "m" 2}
+  ([1e-8 ("abvolt" "abvolts")]
+   [1 ("V" "volt" "volts")]
+   [1.00033 ("intvolt" "intvolts")]
+   [1.042 ("daniell" "daniells")]
+   [299.792458 ("statvolt" "statvolts")]
+   [1000000 ("crocodile" "crocodiles")])}
+ {{"s" 2, "kg" -1, "A" 1, "m" -2}
+  ([483597869920946.25 ("K_J" "K_Js")])}
+ {{"s" -1, "kg" 1, "m" -4}
+  ([100000 ("acousticalohm" "acousticalohms" "ray" "rays")])}
+ {{"s" 1, "A" 1}
+  ([1.602176565e-19
+    ("atomiccharge"
+     "atomiccharges"
+     "electroncharge"
+     "electroncharges")]
+   [3.3356409519815207e-10
+    ("esu"
+     "esus"
+     "franklin"
+     "franklins"
+     "statcoul"
+     "statcoulomb"
+     "statcoulombs"
+     "statcouls")]
+   [1 ("C" "coulomb" "coulombs")]
+   [10 ("abcoul" "abcoulomb" "abcoulombs" "abcouls")]
+   [3600 ("Ah" "Ahs")]
+   [96485.33645956869 ("faraday" "faradays")]
+   [96495.7 ("faraday_chem" "faraday_chems")]
+   [96521.9 ("faraday_phys")])}
+ {{"kg" -1, "m" 3} ([0.000578036672001339 ("fillpower" "fillpowers")])}
+ {{"s" -1, "m" 3}
+  ([0.0000010515032733333334 ("gph" "gphs")]
+   [0.00000786579072 ("cfh" "cfhs")]
+   [0.000016666666666666667 ("lpm" "lpms")]
+   [0.0000630901964 ("gpm" "gpms")]
+   [0.0004719474432 ("cfm" "cfms")]
+   [0.00056633693184
+    ("minersinchID"
+     "minersinchIDs"
+     "minersinchKS"
+     "minersinchKSs"
+     "minersinchND"
+     "minersinchNDs"
+     "minersinchNE"
+     "minersinchNEs"
+     "minersinchNM"
+     "minersinchNMs"
+     "minersinchSD"
+     "minersinchSDs"
+     "minersinchUT"
+     "minersinchUTs")]
+   [0.0007079211648
+    ("minersinchAZ"
+     "minersinchAZs"
+     "minersinchCA"
+     "minersinchCAs"
+     "minersinchMT"
+     "minersinchMTs"
+     "minersinchNV"
+     "minersinchNVs"
+     "minersinchOR"
+     "minersinchORs")]
+   [0.000736238011392 ("minersinchCO" "minersinchCOs")]
+   [0.000792871704576 ("minersinchBC" "minersinchBCs")]
+   [0.028316846592 ("cfs" "cusec" "cusecs")]
+   [0.04381263638888889 ("mgd" "mgds")]
+   [1 ("cumec" "cumecs")]
+   [10000000 ("sverdrup" "sverdrups")])}
+ {{"s" -1, "kg" 1, "m" -2} ([10 ("rayl" "rayls")])}
+ {{"s" -2, "kg" -1, "m" 3}
+  ([6.67384e-11
+    ("G" "gravitationalconstant" "gravitationalconstants")])}
+ {{"s" -4, "kg" 1, "A" -2, "m" 2} ([1 ("daraf" "darafs")])}
+ {{"s" -3, "kg" 1, "A" -2, "m" 3}
+  ([10000000000000 ("preece" "preeces")])}
+ {{"s" -2, "kg" 1, "A" -2, "m" 1}
+  ([0.0000012566370614359173
+    ("magneticconstant"
+     "magneticconstants"
+     "mu0"
+     "mu0s"
+     "permeabilityofvacuum"
+     "permeabilityofvacuums")])}
+ {{"s" -1, "kg" 1} ([0.001 ("mechanicalohm" "mechanicalohms")])}
+ {{"s" 1, "A" 1, "m" -2} ()}
+ {{"s" 1, "A" 1, "m" -1}
+  ([3.3356409519815197e-10 ("helmholtz" "helmholtzs")])}
+ {{"s" -2, "m" 1}
+  ([0.01 ("Gal" "Gals" "galileo" "galileos")]
+   [0.3048 ("celo" "celos")]
+   [1.62 ("moongravity" "moongravitys")]
+   [9.80665
+    ("force"
+     "forces"
+     "g_n"
+     "g_ns"
+     "gee"
+     "gees"
+     "gravities"
+     "gravity"
+     "gravitys")]
+   [10 ("leo" "leos")])}
+ {{"A" 1, "m" -1}
+  ([79.57747154594767 ("Oe" "Oes" "oersted" "oersteds")])}
+ {{"K" 1}
+  ([0.5555555555555556
+    ("Rankine"
+     "Rankines"
+     "degF"
+     "degFs"
+     "degR"
+     "degRs"
+     "degfahrenheit"
+     "degfahrenheits"
+     "degrankine"
+     "degrankines"
+     "degreeFahrenheit"
+     "degreeFahrenheits"
+     "degreerankine"
+     "degreerankines"
+     "degreesRankine"
+     "degreesRankines"
+     "degreesrankine"
+     "degreesrankines"
+     "?"
+     "?s")]
+   [1
+    ("K"
+     "degC"
+     "degCs"
+     "degcelsius"
+     "degreeCelsius"
+     "kelvin"
+     "kelvins"
+     "thermalvolt"
+     "thermalvolts")]
+   [1.25 ("degreaumur" "degreaumurs")]
+   [273.15
+    ("standardtemp"
+     "standardtemps"
+     "stdtemp"
+     "stdtemps"
+     "zerocelsius")])}
+ {{"s" -1, "m" 1}
+  ([0.00508 ("fpm" "fpms")]
+   [0.01 ("kine" "kines")]
+   [0.2777777777777778 ("kph" "kphs")]
+   [0.3048 ("fps")]
+   [0.44704 ("mph" "mphs")]
+   [0.5144444444444445 ("knot" "knots")]
+   [0.5147733333333333
+    ("admiraltyknot" "admiraltyknots" "oldbrknot" "oldbrknots")]
+   [0.5147902666666667 ("oldUSknot" "oldUSknots")]
+   [331.46 ("mach" "machs")]
+   [2187691.268848602 ("atomicvelocity" "atomicvelocitys")]
+   [299792458 ("c" "light" "lights" "lightspeed" "lightspeeds")])}
+ {{"s" 4, "kg" -1, "A" 2, "m" -2}
+  ([1.1126500560536185e-12
+    ("cmcapacitance" "cmcapacitances" "statfarad" "statfarads")]
+   [1.1126500560536184e-9 ("jar" "jars")]
+   [0.000001 ("uF" "uFs")]
+   [0.999505 ("intfarad" "intfarads")]
+   [1 ("F" "farad" "farads")]
+   [1000000000 ("abfarad" "abfarads")])}
+ {{"1000inch" -1} ([1 ("thou" "thous")])}
+ {{"s" 3, "kg" -1, "A" 2, "m" -2}
+  ([1.1126500560536185e-12 ("statmho" "statmhos")]
+   [1 ("S" "mho" "mhos" "siemens")]
+   [1000000000 ("abmho" "abmhos")])}
+ {{"K" -1, "s" -3, "kg" 1, "m" 1}
+  ([0.1442278888642826 ("kvalue" "kvalues")])}
+ {{"K" 1, "s" 3, "kg" -1, "m" -1} ()}
+ {{"K" 1, "s" 3, "kg" -1}
+  ([0.155 ("clo" "clos")]
+   [0.17611018368230585 ("Rvalue" "Rvalues")]
+   [1 ("RSI" "RSIs")])}
+ {{"s" 1, "A" 1, "m" -3} ()}
+ {{"s" 1, "A" 1, "m" 1} ([3.33564095198152e-30 ("debye" "debyes")])}
+ {{"K" -1, "s" -3, "kg" 1}
+  ([1 ("europeanUvalue" "europeanUvalues")]
+   [5.678263341113488 ("Cvalue" "Cvalues" "Uvalue" "Uvalues")])}
+ {{"kg" 1, "m" -1}
+  ([1e-7 ("drex" "drexs")]
+   [1.1111111111111111e-7 ("denier" "deniers")]
+   [0.000001 ("tex" "texs")]
+   [0.000001937713468189523
+    ("manchesteryarnnumber" "manchesteryarnnumbers")]
+   [17.857967322834646 ("pli" "plis")])}
+ {{"s" -1, "mol" 1} ([1 ("kat" "katal" "katals" "kats")])}
+ {{"s" -1, "m" -3}
+  ([3700 ("eman" "emans")] [13690 ("mache" "maches")])}
+ {{"s" 2, "kg" -1, "m" 1} ([1e-12 ("brewster" "brewsters")])}
+ {{"m" 1}
+  ([1.616199255703334e-35
+    ("l_P" "l_Ps" "plancklength" "plancklengths")]
+   [1e-15 ("fermi" "fermis")]
+   [1.3195909061473426e-15
+    ("lambda_C_n"
+     "lambda_C_ns"
+     "neutronwavelength"
+     "neutronwavelengths")]
+   [1.3214098556108049e-15
+    ("lambda_C_p"
+     "lambda_C_ps"
+     "protonwavelength"
+     "protonwavelengths")]
+   [2.8179403267e-15 ("classicalElectronRadius" "r_e" "r_es")]
+   [1.00202e-13 ("siegbahn" "siegbahns" "xunit" "xunits")]
+   [1e-12 ("bicron" "bicrons")]
+   [2.4263102371190786e-12
+    ("Comptonwavelength"
+     "Comptonwavelengths"
+     "electronwavelength"
+     "electronwavelengths"
+     "lambda_C"
+     "lambda_Cs")]
+   [5.2917721092e-11 ("atomiclength" "atomiclengths" "bohrradius")]
+   [1e-10 ("angstrom" "angstroms" "Å" "Ås" "Å" "Ås")]
+   [5.362850952148437e-9
+    ("texscaledpoint" "texscaledpoints" "texsp" "texsps")]
+   [0.000001 ("micron" "microns")]
+   [0.00000635 ("silversmithpoint" "silversmithpoints")]
+   [0.000012494259999999999 ("wire56gauge" "wire56gauges")]
+   [0.000014030959999999999 ("wire55gauge" "wire55gauges")]
+   [0.000015755619999999997 ("wire54gauge" "wire54gauges")]
+   [0.00001769364 ("wire53gauge" "wire53gauges")]
+   [0.00001986788 ("wire52gauge" "wire52gauges")]
+   [0.00002230882 ("wire51gauge" "wire51gauges")]
+   [0.00002505202 ("wire50gauge" "wire50gauges")]
+   [0.0000254 ("brwire50gauge" "brwire50gauges" "mil" "mils")]
+   [0.0000281432 ("wire49gauge" "wire49gauges")]
+   [0.000030479999999999996 ("brwire49gauge" "brwire49gauges")]
+   [0.000031597600000000004 ("wire48gauge" "wire48gauges")]
+   [0.0000354838 ("wire47gauge" "wire47gauges")]
+   [0.0000398272 ("wire46gauge" "wire46gauges")]
+   [0.00004064 ("brwire48gauge" "brwire48gauges")]
+   [0.0000447294 ("wire45gauge" "wire45gauges")]
+   [0.0000502412 ("wire44gauge" "wire44gauges")]
+   [0.0000508
+    ("brwire47gauge" "brwire47gauges" "zinc1gauge" "zinc1gauges")]
+   [0.0000564134 ("wire43gauge" "wire43gauges")]
+   [0.00006095999999999999 ("brwire46gauge" "brwire46gauges")]
+   [0.0000633476 ("wire42gauge" "wire42gauges")]
+   [0.00007112
+    ("brwire45gauge" "brwire45gauges" "wire41gauge" "wire41gauges")]
+   [0.000079883 ("wire40gauge" "wire40gauges")]
+   [0.00008128 ("brwire44gauge" "brwire44gauges")]
+   [0.0000896874 ("wire39gauge" "wire39gauges")]
+   [0.00009143999999999999 ("brwire43gauge" "brwire43gauges")]
+   [0.00010071099999999999 ("wire38gauge" "wire38gauges")]
+   [0.0001016
+    ("brwire42gauge" "brwire42gauges" "zinc2gauge" "zinc2gauges")]
+   [0.00011176 ("brwire41gauge" "brwire41gauges")]
+   [0.0001131062 ("wire37gauge" "wire37gauges")]
+   [0.00012191999999999998 ("brwire40gauge" "brwire40gauges")]
+   [0.000127 ("wire36gauge" "wire36gauges")]
+   [0.00013208 ("brwire39gauge" "brwire39gauges")]
+   [0.000142621 ("wire35gauge" "wire35gauges")]
+   [0.0001524
+    ("brwire38gauge" "brwire38gauges" "zinc3gauge" "zinc3gauges")]
+   [0.00015875 ("plate38gauge" "plate38gauges")]
+   [0.000160147 ("wire34gauge" "wire34gauges")]
+   [0.000168671875 ("plate37gauge" "plate37gauges")]
+   [0.00017271999999999999 ("brwire37gauge" "brwire37gauges")]
+   [0.00017859375 ("plate36gauge" "plate36gauges")]
+   [0.000179832 ("wire33gauge" "wire33gauges")]
+   [0.0001879857551914146 ("frenchpoint" "frenchpoints")]
+   [0.00019303999999999998 ("brwire36gauge" "brwire36gauges")]
+   [0.0001984375 ("plate35gauge" "plate35gauges")]
+   [0.00020193 ("wire32gauge" "wire32gauges")]
+   [0.0002032 ("zinc4gauge" "zinc4gauges")]
+   [0.00021335999999999998 ("brwire35gauge" "brwire35gauges")]
+   [0.00021828125 ("plate34gauge" "plate34gauges")]
+   [0.0002267712 ("wire31gauge" "wire31gauges")]
+   [0.00023368 ("brwire34gauge" "brwire34gauges")]
+   [0.000238125 ("plate33gauge" "plate33gauges")]
+   [0.00025 ("Q")]
+   [0.000254
+    ("australiapoint"
+     "australiapoints"
+     "brwire33gauge"
+     "brwire33gauges"
+     "caliber"
+     "calibers"
+     "zinc5gauge"
+     "zinc5gauges")]
+   [0.000254762 ("wire30gauge" "wire30gauges")]
+   [0.00025796875 ("plate32gauge" "plate32gauges")]
+   [0.00027432 ("brwire32gauge" "brwire32gauges")]
+   [0.0002778125 ("plate31gauge" "plate31gauges")]
+   [0.00028600399999999997 ("wire29gauge" "wire29gauges")]
+   [0.00029464 ("brwire31gauge" "brwire31gauges")]
+   [0.0003048 ("zinc6gauge" "zinc6gauges")]
+   [0.00031496 ("brwire30gauge" "brwire30gauges")]
+   [0.0003175 ("plate30gauge" "plate30gauges")]
+   [0.000321056 ("wire28gauge" "wire28gauges")]
+   [0.00034543999999999997 ("brwire29gauge" "brwire29gauges")]
+   [0.00034882666666666664 ("fournierpoint" "fournierpoints")]
+   [0.0003514598 ("point" "points" "printerspoint" "printerspoints")]
+   [0.00035277777777777776
+    ("computerpoint"
+     "computerpoints"
+     "postscriptpoint"
+     "postscriptpoints"
+     "pspoint"
+     "pspoints")]
+   [0.00035559999999999997 ("zinc7gauge" "zinc7gauges")]
+   [0.0003571875 ("plate29gauge" "plate29gauges")]
+   [0.00036068 ("wire27gauge" "wire27gauges")]
+   [0.000375 ("metricpoint" "metricpoints")]
+   [0.00037593984962406017 ("bertholdpoint" "bertholdpoints")]
+   [0.0003759715103828292
+    ("frenchprinterspoint"
+     "frenchprinterspoints"
+     "olddidotpoint"
+     "olddidotpoints")]
+   [0.00037606499999999997
+    ("didotpoint"
+     "didotpoints"
+     "europeanpoint"
+     "europeanpoints"
+     "germandidotpoint"
+     "germandidotpoints")]
+   [0.00037846 ("brwire28gauge" "brwire28gauges")]
+   [0.000396875
+    ("plate28gauge" "plate28gauges" "shoeounce" "shoeounces")]
+   [0.0004 ("INpoint" "INpoints")]
+   [0.000404876 ("wire26gauge" "wire26gauges")]
+   [0.0004064 ("zinc8gauge" "zinc8gauges")]
+   [0.00041656 ("brwire27gauge" "brwire27gauges")]
+   [0.0004365625 ("plate27gauge" "plate27gauges")]
+   [0.00045465999999999996 ("wire25gauge" "wire25gauges")]
+   [0.00045719999999999995
+    ("brwire26gauge" "brwire26gauges" "zinc9gauge" "zinc9gauges")]
+   [0.00047625 ("plate26gauge" "plate26gauges")]
+   [0.000508
+    ("brwire25gauge" "brwire25gauges" "zinc10gauge" "zinc10gauges")]
+   [0.00051054 ("wire24gauge" "wire24gauges")]
+   [0.0005291666666666667 ("shoeiron" "shoeirons")]
+   [0.000555625 ("plate25gauge" "plate25gauges")]
+   [0.0005587999999999999 ("brwire24gauge" "brwire24gauges")]
+   [0.000573278 ("wire23gauge" "wire23gauges")]
+   [0.0006096
+    ("brwire23gauge" "brwire23gauges" "zinc11gauge" "zinc11gauges")]
+   [0.000635
+    ("buttonline" "buttonlines" "plate24gauge" "plate24gauges")]
+   [0.00064389 ("wire22gauge" "wire22gauges")]
+   [0.0007111999999999999
+    ("brwire22gauge" "brwire22gauges" "zinc12gauge" "zinc12gauges")]
+   [0.000714375 ("plate23gauge" "plate23gauges")]
+   [0.0007228839999999999 ("wire21gauge" "wire21gauges")]
+   [0.0007521299999999999 ("nonplusultra" "nonplusultras")]
+   [0.00079375 ("plate22gauge" "plate22gauges")]
+   [0.0008117840000000001 ("wire20gauge" "wire20gauges")]
+   [0.0008128
+    ("brwire21gauge" "brwire21gauges" "zinc13gauge" "zinc13gauges")]
+   [0.000873125 ("plate21gauge" "plate21gauges")]
+   [0.0009116059999999999 ("wire19gauge" "wire19gauges")]
+   [0.0009143999999999999
+    ("brwire20gauge" "brwire20gauges" "zinc14gauge" "zinc14gauges")]
+   [0.0009525 ("plate20gauge" "plate20gauges")]
+   [0.001016
+    ("brwire19gauge" "brwire19gauges" "zinc15gauge" "zinc15gauges")]
+   [0.00102362 ("wire18gauge" "wire18gauges")]
+   [0.0010543794 ("excelsior" "excelsiors")]
+   [0.00111125 ("plate19gauge" "plate19gauges")]
+   [0.0011281949999999998 ("brillant" "brillants")]
+   [0.001143 ("zinc16gauge" "zinc16gauges")]
+   [0.001149604 ("wire17gauge" "wire17gauges")]
+   [0.0012192 ("brwire18gauge" "brwire18gauges")]
+   [0.0012301093 ("brilliant" "brilliants")]
+   [0.00127
+    ("plate18gauge" "plate18gauges" "zinc17gauge" "zinc17gauges")]
+   [0.001290828 ("wire16gauge" "wire16gauges")]
+   [0.001397 ("zinc18gauge" "zinc18gauges")]
+   [0.0014058392 ("diamond" "diamonds")]
+   [0.0014223999999999999 ("brwire17gauge" "brwire17gauges")]
+   [0.00142875 ("plate17gauge" "plate17gauges")]
+   [0.001449578 ("wire15gauge" "wire15gauges")]
+   [0.0015042599999999999 ("diamant" "diamants")]
+   [0.001524 ("zinc19gauge" "zinc19gauges")]
+   [0.0015875
+    ("pinlength" "pinlengths" "plate16gauge" "plate16gauges")]
+   [0.0016256 ("brwire16gauge" "brwire16gauges")]
+   [0.001627632 ("wire14gauge" "wire14gauges")]
+   [0.001757299 ("pearl" "pearls")]
+   [0.001778 ("zinc20gauge" "zinc20gauges")]
+   [0.0017859375 ("plate15gauge" "plate15gauges")]
+   [0.0018277839999999998 ("wire13gauge" "wire13gauges")]
+   [0.0018287999999999998 ("brwire15gauge" "brwire15gauges")]
+   [0.001880325 ("perl" "perls")]
+   [0.0019330289 ("agate" "agates" "ruby" "rubys")]
+   [0.001984375 ("plate14gauge" "plate14gauges")]
+   [0.002032
+    ("brwire14gauge" "brwire14gauges" "zinc21gauge" "zinc21gauges")]
+   [0.002052574 ("wire12gauge" "wire12gauges")]
+   [0.0021087588 ("nonpareil" "nonpareils")]
+   [0.002116666666666667 ("line" "lines")]
+   [0.0022558290622969753
+    ("frenchline" "frenchlines" "ligne" "lignes")]
+   [0.0022563899999999996 ("nonpareille" "nonpareilles")]
+   [0.0022844887 ("emerald" "emeralds" "mignonette" "mignonettes")]
+   [0.002286 ("zinc22gauge" "zinc22gauges")]
+   [0.002304796 ("wire11gauge" "wire11gauges")]
+   [0.0023368 ("brwire13gauge" "brwire13gauges")]
+   [0.00238125 ("plate13gauge" "plate13gauges")]
+   [0.0024602186 ("minion" "minions")]
+   [0.00254 ("zinc23gauge" "zinc23gauges")]
+   [0.00258826 ("wire10gauge" "wire10gauges")]
+   [0.0026324549999999997 ("kolonel" "kolonels")]
+   [0.0026415999999999996 ("brwire12gauge" "brwire12gauges")]
+   [0.002778125 ("plate12gauge" "plate12gauges")]
+   [0.0028116784 ("brevier" "breviers")]
+   [0.00290576 ("wire9gauge" "wire9gauges")]
+   [0.0029464 ("brwire11gauge" "brwire11gauges")]
+   [0.0030085199999999998 ("petit" "petits")]
+   [0.0031631382 ("bourgeois")]
+   [0.003175
+    ("plate11gauge" "plate11gauges" "zinc24gauge" "zinc24gauges")]
+   [0.0032512 ("brwire10gauge" "brwire10gauges")]
+   [0.0032639 ("wire8gauge" "wire8gauges")]
+   [0.003384585 ("borgis")]
+   [0.003514598 ("longprimer" "longprimers")]
+   [0.003571875 ("plate10gauge" "plate10gauges")]
+   [0.0036575999999999996 ("brwire9gauge" "brwire9gauges")]
+   [0.0036652200000000003 ("wire7gauge" "wire7gauges")]
+   [0.00376065 ("corpus" "garamond" "garamonds" "korpus")]
+   [0.0038660578 ("smallpica" "smallpicas")]
+   [0.00396875 ("plate9gauge" "plate9gauges")]
+   [0.004064 ("brwire8gauge" "brwire8gauges")]
+   [0.0041148 ("wire6gauge" "wire6gauges")]
+   [0.0042175176 ("pica" "picas")]
+   [0.004233333333333334 ("computerpica" "computerpicas")]
+   [0.004365625 ("plate8gauge" "plate8gauges")]
+   [0.004470399999999999 ("brwire7gauge" "brwire7gauges")]
+   [0.004512779999999999 ("cicero" "ciceros")]
+   [0.004572 ("assyriansusi" "assyriansusis" "susi" "susis")]
+   [0.00462026 ("wire5gauge" "wire5gauges")]
+   [0.0047625 ("plate7gauge" "plate7gauges")]
+   [0.0048768 ("brwire6gauge" "brwire6gauges")]
+   [0.0049204372 ("english" "englishs")]
+   [0.005159375 ("plate6gauge" "plate6gauges")]
+   [0.00518922 ("wire4gauge" "wire4gauges")]
+   [0.005264909999999999 ("mittel" "mittels")]
+   [0.0053847999999999995 ("brwire5gauge" "brwire5gauges")]
+   [0.00555625 ("plate5gauge" "plate5gauges")]
+   [0.0056233568 ("columbian" "columbians")]
+   [0.005826759999999999 ("wire3gauge" "wire3gauges")]
+   [0.0058928 ("brwire4gauge" "brwire4gauges")]
+   [0.005953125 ("plate4gauge" "plate4gauges")]
+   [0.0060170399999999995 ("tertia" "tertias")]
+   [0.0063262764 ("greatprimer" "greatprimers")]
+   [0.00635
+    ("plate3gauge" "plate3gauges" "zinc25gauge" "zinc25gauges")]
+   [0.0064008 ("brwire3gauge" "brwire3gauges")]
+   [0.00654304 ("wire2gauge" "wire2gauges")]
+   [0.006746875 ("plate2gauge" "plate2gauges")]
+   [0.00676917 ("text" "texts")]
+   [0.0070104 ("brwire2gauge" "brwire2gauges")]
+   [0.007029196 ("paragon" "paragons")]
+   [0.00714375 ("plate1gauge" "plate1gauges")]
+   [0.00734822 ("wire1gauge" "wire1gauges")]
+   [0.007619999999999999 ("brwire1gauge" "brwire1gauges")]
+   [0.0079375 ("plate0gauge" "plate0gauges")]
+   [0.0082296 ("brwire0gauge" "brwire0gauges")]
+   [0.00825246 ("wire0gauge" "wire0gauges")]
+   [0.008466653492553832 ("barleycorn" "barleycorns")]
+   [0.00873125 ("plate00gauge" "plate00gauges")]
+   [0.008839199999999998 ("brwire00gauge" "brwire00gauges")]
+   [0.00926592 ("wire00gauge" "wire00gauges")]
+   [0.0094488 ("brwire000gauge" "brwire000gauges")]
+   [0.009524999999999999 ("zinc26gauge" "zinc26gauges")]
+   [0.009525 ("plate000gauge" "plate000gauges")]
+   [0.01016 ("brwire0000gauge" "brwire0000gauges")]
+   [0.01031875 ("plate0000gauge" "plate0000gauges")]
+   [0.01040384 ("wire000gauge" "wire000gauges")]
+   [0.0109728 ("brwire00000gauge" "brwire00000gauges")]
+   [0.0111125 ("plate00000gauge" "plate00000gauges")]
+   [0.011684 ("wire0000gauge" "wire0000gauges")]
+   [0.0117856 ("brwire000000gauge" "brwire000000gauges")]
+   [0.01190625 ("plate000000gauge" "plate000000gauges")]
+   [0.012034079999999999 ("kleine_kanon" "kleine_kanons")]
+   [0.0127
+    ("brwire0000000gauge"
+     "brwire0000000gauges"
+     "zinc27gauge"
+     "zinc27gauges")]
+   [0.01353834 ("kanon" "kanons")]
+   [0.0154642312 ("meridian" "meridians")]
+   [0.01579473 ("grosse_kanon" "grosse_kanons")]
+   [0.0168700704 ("canon" "canons")]
+   [0.018051119999999997 ("missal" "missals")]
+   [0.0185 ("romandigit" "romandigits")]
+   [0.0185166 ("remendigit" "remendigits")]
+   [0.018714357142857147 ("epyptiandigit" "epyptiandigits")]
+   [0.019288125000000003
+    ("olympicdakylos" "olympicfinger" "olympicfingers")]
+   [0.019764374999999997 ("greekfinger" "greekfingers")]
+   [0.022225 ("finger" "fingerbreadth" "fingerbreadths" "fingers")]
+   [0.02252133333333333 ("arabicinch" "arabicinchs")]
+   [0.024666666666666667 ("romaninch" "romaninchs")]
+   [0.025399960477661496 ("irishinch" "irishinchs")]
+   [0.0254
+    ("in" "inch" "inches" "inchs" "ins" "zinc28gauge" "zinc28gauges")]
+   [0.025537133980219527 ("scotsinch" "scotsinchs")]
+   [0.027069948747563705
+    ("frenchinch"
+     "frenchinchs"
+     "frenchthumb"
+     "frenchthumbs"
+     "pouce"
+     "pouces")]
+   [0.02707668 ("kleine_sabon" "kleine_sabons")]
+   [0.03158946 ("grosse_sabon" "grosse_sabons")]
+   [0.0375 ("sizeAring" "sizeArings")]
+   [0.03875 ("sizeBring" "sizeBrings")]
+   [0.04 ("sizeCring" "sizeCrings")]
+   [0.04084070449666731 ("jpsize1ring" "jpsize1rings")]
+   [0.041 ("eusize1ring" "eusize1rings")]
+   [0.04125 ("sizeDring" "sizeDrings")]
+   [0.0418879020478639 ("jpsize2ring" "jpsize2rings")]
+   [0.042 ("eusize2ring" "eusize2rings")]
+   [0.0425 ("sizeEring" "sizeErings")]
+   [0.042930491929835245 ("size2ring" "size2rings")]
+   [0.04293509959906052 ("jpsize3ring" "jpsize3rings")]
+   [0.043 ("eusize3ring" "eusize3rings")]
+   [0.043750000000000004 ("sizeFring" "sizeFrings")]
+   [0.04398229715025711 ("jpsize4ring" "jpsize4rings")]
+   [0.044 ("eusize4ring" "eusize4rings")]
+   [0.04420723518425414 ("size3ring" "size3rings")]
+   [0.045 ("eusize5ring" "eusize5rings" "sizeGring" "sizeGrings")]
+   [0.0450294947014537 ("jpsize5ring" "jpsize5rings")]
+   [0.04548397843867302 ("size3_5ring" "size3_5rings")]
+   [0.046 ("eusize6ring" "eusize6rings")]
+   [0.04607669225265031 ("jpsize6ring" "jpsize6rings")]
+   [0.04625 ("sizeHring" "sizeHrings")]
+   [0.046760721693091915 ("size4ring" "size4rings")]
+   [0.047 ("eusize7ring" "eusize7rings")]
+   [0.0471238898038469 ("jpsize7ring" "jpsize7rings")]
+   [0.0475 ("sizeIring" "sizeIrings")]
+   [0.048 ("eusize8ring" "eusize8rings")]
+   [0.04803746494751081 ("size4_5ring" "size4_5rings")]
+   [0.04817108735504349 ("jpsize8ring" "jpsize8rings")]
+   [0.04875 ("sizeJring" "sizeJrings")]
+   [0.049 ("eusize9ring" "eusize9rings")]
+   [0.049218284906240105 ("jpsize9ring" "jpsize9rings")]
+   [0.0493142082019297 ("size5ring" "size5rings")]
+   [0.05 ("eusize10ring" "eusize10rings" "sizeKring" "sizeKrings")]
+   [0.05026548245743669 ("jpsize10ring" "jpsize10rings")]
+   [0.05059095145634859 ("size5_5ring" "size5_5rings")]
+   [0.0508 ("stick" "sticks")]
+   [0.051 ("eusize11ring" "eusize11rings")]
+   [0.051250000000000004 ("sizeLring" "sizeLrings")]
+   [0.051312680008633274 ("jpsize11ring" "jpsize11rings")]
+   [0.051867694710767485 ("size6ring" "size6rings")]
+   [0.052 ("eusize12ring" "eusize12rings")]
+   [0.052359877559829904 ("jpsize12ring" "jpsize12rings")]
+   [0.0525 ("sizeMring" "sizeMrings")]
+   [0.053 ("eusize13ring" "eusize13rings")]
+   [0.05314443796518638 ("size6_5ring" "size6_5rings")]
+   [0.053407075111026485 ("jpsize13ring" "jpsize13rings")]
+   [0.05375 ("sizeNring" "sizeNrings")]
+   [0.054 ("eusize14ring" "eusize14rings")]
+   [0.05442118121960527 ("size7ring" "size7rings")]
+   [0.054454272662223066 ("jpsize14ring" "jpsize14rings")]
+   [0.055 ("eusize15ring" "eusize15rings" "sizeOring" "sizeOrings")]
+   [0.055501470213419696 ("jpsize15ring" "jpsize15rings")]
+   [0.055697924474024156 ("size7_5ring" "size7_5rings")]
+   [0.056 ("eusize16ring" "eusize16rings")]
+   [0.05625 ("sizePring" "sizePrings")]
+   [0.05654866776461628 ("jpsize16ring" "jpsize16rings")]
+   [0.05697466772844305 ("size8ring" "size8rings")]
+   [0.057 ("eusize17ring" "eusize17rings")]
+   [0.057149911074738366 ("nail" "nails")]
+   [0.0575 ("sizeQring" "sizeQrings")]
+   [0.057595865315812865 ("jpsize17ring" "jpsize17rings")]
+   [0.058 ("eusize18ring" "eusize18rings")]
+   [0.05825141098286194 ("size8_5ring" "size8_5rings")]
+   [0.05864306286700949 ("jpsize18ring" "jpsize18rings")]
+   [0.058750000000000004 ("sizeRring" "sizeRrings")]
+   [0.059 ("eusize19ring" "eusize19rings")]
+   [0.059528154237280834 ("size9ring" "size9rings")]
+   [0.059690260418206076 ("jpsize19ring" "jpsize19rings")]
+   [0.06 ("eusize20ring" "eusize20rings" "sizeSring" "sizeSrings")]
+   [0.06073745796940266 ("jpsize20ring" "jpsize20rings")]
+   [0.060804897491699726 ("size9_5ring" "size9_5rings")]
+   [0.061 ("eusize21ring" "eusize21rings")]
+   [0.06125 ("sizeTring" "sizeTrings")]
+   [0.06178465552059928 ("jpsize21ring" "jpsize21rings")]
+   [0.062 ("eusize22ring" "eusize22rings")]
+   [0.06208164074611862 ("size10ring" "size10rings")]
+   [0.0625 ("sizeUring" "sizeUrings")]
+   [0.06283185307179587 ("jpsize22ring" "jpsize22rings")]
+   [0.063 ("eusize23ring" "eusize23rings")]
+   [0.06335838400053752 ("size10_5ring" "size10_5rings")]
+   [0.06375 ("sizeVring" "sizeVrings")]
+   [0.06387905062299246 ("jpsize23ring" "jpsize23rings")]
+   [0.064 ("eusize24ring" "eusize24rings")]
+   [0.0646351272549564 ("size11ring" "size11rings")]
+   [0.06492624817418907 ("jpsize24ring" "jpsize24rings")]
+   [0.065 ("eusize25ring" "eusize25rings" "sizeWring" "sizeWrings")]
+   [0.06591187050937529 ("size11_5ring" "size11_5rings")]
+   [0.06597344572538566 ("jpsize25ring" "jpsize25rings")]
+   [0.066 ("eusize26ring" "eusize26rings")]
+   [0.06625 ("sizeXring" "sizeXrings")]
+   [0.067 ("eusize27ring" "eusize27rings")]
+   [0.06702064327658225 ("jpsize26ring" "jpsize26rings")]
+   [0.06718861376379419 ("size12ring" "size12rings")]
+   [0.0675 ("sizeYring" "sizeYrings")]
+   [0.068 ("eusize28ring" "eusize28rings")]
+   [0.06806784082777886 ("jpsize27ring" "jpsize27rings")]
+   [0.06846535701821307 ("size12_5ring" "size12_5rings")]
+   [0.06875 ("sizeZring" "sizeZrings")]
+   [0.069 ("eusize29ring" "eusize29rings")]
+   [0.06911503837897545 ("jpsize28ring" "jpsize28rings")]
+   [0.06974210027263197 ("size13ring" "size13rings")]
+   [0.07 ("eusize30ring" "eusize30rings")]
+   [0.07016223593017204 ("jpsize29ring" "jpsize29rings")]
+   [0.07101884352705086 ("size13_5ring" "size13_5rings")]
+   [0.07120943348136867 ("jpsize30ring" "jpsize30rings")]
+   [0.074 ("romanpalm" "romanpalms")]
+   [0.07485742857142859 ("egyptianpalm" "egyptianpalms")]
+   [0.07619988143298449 ("irishpalm" "irishpalms")]
+   [0.07715250000000001
+    ("olympicpalestra"
+     "olympicpalestras"
+     "olympicpalm"
+     "olympicpalms")]
+   [0.09144 ("assyrianpalm" "assyrianpalms")]
+   [0.1016 ("hand" "hands" "palmwidth" "palmwidths")]
+   [0.1143 ("fingerlength" "fingerlengths")]
+   [0.20116840233680466
+    ("link" "links" "surveyorslink" "surveyorslinks")]
+   [0.2032 ("palmlength" "palmlengths")]
+   [0.2267697497443494 ("scotslink" "scotslinks")]
+   [0.22859964429895346 ("irishspan" "irishspans" "span" "spans")]
+   [0.2286
+    ("olympicspan"
+     "olympicspans"
+     "olympicspithame"
+     "olympicspithames")]
+   [0.2560316016148279 ("irishlink" "irishlinks")]
+   [0.270256 ("arabicfeet" "arabicfeets" "arabicfoot" "arabicfoots")]
+   [0.27432 ("assyrianfoot" "assyrianfoots")]
+   [0.2942 ("lateromanfoot" "lateromanfoots")]
+   [0.296
+    ("ionicfoot"
+     "ionicfoots"
+     "pedes"
+     "pes"
+     "romanfeet"
+     "romanfeets"
+     "romanfoot"
+     "romanfoots")]
+   [0.2973 ("earlyromanfoot" "earlyromanfoots")]
+   [0.30479952573193797
+    ("irishfeet" "irishfeets" "irishfoot" "irishfoots")]
+   [0.3048
+    ("engineerslink"
+     "engineerslinks"
+     "feet"
+     "feets"
+     "foot"
+     "foots"
+     "ft"
+     "fts"
+     "ramsdenslink"
+     "ramsdenslinks")]
+   [0.3064456077626343
+    ("scotsfeet" "scotsfeets" "scotsfoot" "scotsfoots")]
+   [0.30861000000000005
+    ("olympicfeet" "olympicfeets" "olympicfoot" "olympicfoots")]
+   [0.31622999999999996
+    ("greekfeet" "greekfeets" "greekfoot" "greekfoots" "podes" "pous")]
+   [0.3248393849707645
+    ("frenchfeet"
+     "frenchfeets"
+     "frenchfoot"
+     "frenchfoots"
+     "pied"
+     "pieds")]
+   [0.326 ("doricfoot" "doricfoots")]
+   [0.33 ("sumerianfoot" "sumerianfoots")]
+   [0.33299999999999996 ("pesdrusianus")]
+   [0.33782 ("northernfoot" "northernfoots")]
+   [0.35575874999999996 ("shortgreekcubit" "shortgreekcubits")]
+   [0.39528749999999996 ("homericcubit" "homericcubits")]
+   [0.444 ("romancubit" "romancubits")]
+   [0.44653199999999993 ("hebrewcubit" "hebrewcubits")]
+   [0.44914457142857156 ("egyptianshortcubit" "egyptianshortcubits")]
+   [0.4571992885979069 ("irishcubit" "irishcubits")]
+   [0.462915 ("olympiccubit" "olympiccubits")]
+   [0.4743449999999999 ("greekcubit" "greekcubits")]
+   [0.495 ("kus" "sumeriancubit" "sumeriancubits")]
+   [0.524002 ("egyptianroyalcubit" "egyptianroyalcubits")]
+   [0.540512 ("blackcubit" "blackcubits")]
+   [0.54864 ("assyriancubit" "assyriancubits")]
+   [0.55372 ("biblicalcubit" "biblicalcubits")]
+   [0.64008 ("persianroyalcubit" "persianroyalcubits")]
+   [0.6492239999999999 ("hashimicubit" "hashimicubits")]
+   [0.67564 ("northerncubit" "northerncubits")]
+   [0.6857989328968604 ("flemishell" "flemishells")]
+   [0.740664 ("doubleremen" "doubleremens")]
+   [0.762 ("USmilitarypace" "USmilitarypaces" "pace" "paces")]
+   [0.7715250000000001
+    ("olympicbema" "olympicbemas" "olympicpace" "olympicpaces")]
+   [0.9143985771958139 ("irishyard" "irishyards")]
+   [0.9144
+    ("USdoubletimepace" "USdoubletimepaces" "yard" "yards" "yd" "yds")]
+   [0.9448739572681225 ("scotsell" "scotsells")]
+   [1 ("m" "meter" "meters" "metre" "metres")]
+   [1.1429982214947674 ("ell" "ells" "englishell" "englishells")]
+   [1.3715978657937211 ("goad" "goads")]
+   [1.4351 ("standardgauge" "standardgauges")]
+   [1.48 ("passus" "romanpace" "romanpaces")]
+   [1.52399762865969 ("irishpace" "irishpaces")]
+   [1.524 ("geometricpace" "geometricpaces")]
+   [1.7018 ("smoot" "smoots")]
+   [1.8287971543916277 ("irishfathom" "irishfathoms")]
+   [1.8288036576073152 ("fathom" "fathoms")]
+   [1.8516600000000003
+    ("olympicfathom"
+     "olympicfathoms"
+     "olympicorguia"
+     "olympicorguias")]
+   [1.8973799999999996
+    ("greekfathom" "greekfathoms" "orguia" "orguias")]
+   [1.9490363098245866 ("toise" "toises")]
+   [2.96 ("romanperch" "romanperchs")]
+   [3.1622999999999997 ("akaina" "akainas")]
+   [5.029192174576977 ("pole" "poles")]
+   [5.029210058420117
+    ("perch"
+     "perchs"
+     "rd"
+     "rds"
+     "rod"
+     "rods"
+     "surveyorspole"
+     "surveyorspoles")]
+   [5.669243743608735 ("scotsfall" "scotsfalls")]
+   [6.09599051463876 ("rope" "ropes")]
+   [6.400790040370697
+    ("irishperch" "irishperchs" "irishpole" "irishpoles")]
+   [18.516600000000004
+    ("olympicamma" "olympicammas" "olympiccord" "olympiccords")]
+   [20.116840233680467
+    ("ch"
+     "chain"
+     "chains"
+     "chs"
+     "gunterschain"
+     "gunterschains"
+     "surveychain"
+     "surveychains"
+     "surveyorschain"
+     "surveyorschains")]
+   [22.67697497443494 ("scotschain" "scotschains")]
+   [22.86004572009144 ("oldUKRNshackle" "oldUKRNshackles")]
+   [25.603160161482787 ("irishchain" "irishchains")]
+   [27.432054864109727 ("shackle" "shackles")]
+   [30.48
+    ("engineerschain"
+     "engineerschains"
+     "ramsdenschain"
+     "ramsdenschains")]
+   [30.861000000000004 ("olympicplethron" "olympicplethrons")]
+   [31.622999999999998 ("plethron" "plethrons")]
+   [35.52 ("actuslength" "actuslengths")]
+   [36.576 ("bolt" "bolts" "cottonbolt" "cottonbolts")]
+   [64.008 ("woolbolt" "woolbolts")]
+   [91.44 ("footballfield" "footballfields")]
+   [109.728 ("skeincotton" "skeincottons")]
+   [142.08 ("actus")]
+   [182.8803657607315 ("oldrussiancable" "oldrussiancables")]
+   [185 ("stade" "stades" "stadia" "stadias" "stadium" "stadiums")]
+   [185.16600000000003 ("olympicstadion" "olympicstadions")]
+   [185.3184
+    ("admiraltycable" "admiraltycables" "oldbrcable" "oldbrcables")]
+   [189.73799999999997 ("stadion" "stadions")]
+   [200 ("metriccable" "metriccables")]
+   [201.16840233680466 ("furlong" "furlongs")]
+   [219.45643891287781
+    ("cable"
+     "cablelength"
+     "cablelengths"
+     "cables"
+     "cableslength"
+     "cableslengths"
+     "cablet"
+     "cablets"
+     "navycablelength"
+     "navycablelengths")]
+   [224.94284988569976 ("oldhollandcable" "oldhollandcables")]
+   [226.7697497443494 ("scotsfurlong" "scotsfurlongs")]
+   [237.74447548895097 ("hawserlaidcable" "hawserlaidcables")]
+   [256.0316016148279 ("irishfurlong" "irishfurlongs")]
+   [257.86131572263145 ("oldportugalcable" "oldportugalcables")]
+   [274.32 ("cut" "cuts" "lea" "leas")]
+   [548.64 ("heer" "heers")]
+   [578.9007194244605 ("li" "lis")]
+   [1480 ("romanmile" "romanmiles")]
+   [1609.344 ("mi" "mile" "miles" "mis")]
+   [1609.3472186944373 ("statutemile" "statutemiles")]
+   [1814.1579979547953 ("scotsmile" "scotsmiles")]
+   [1828.8 ("datamile" "datamiles" "seamile" "seamiles")]
+   [1852 ("nauticalmile" "nauticalmiles")]
+   [1853.184
+    ("admiraltymile"
+     "admiraltymiles"
+     "geographicalmile"
+     "geographicalmiles"
+     "oldbrnauticalmile"
+     "oldbrnauticalmiles")]
+   [1853.24496 ("oldUSnauticalmile" "oldUSnauticalmiles")]
+   [2048.252812918623 ("irishmile" "irishmiles")]
+   [2162.048 ("arabicmile" "arabicmiles")]
+   [2220 ("romanleague" "romanleagues")]
+   [4828.041656083312 ("league" "leagues")]
+   [5556 ("marineleague" "marineleagues")]
+   [5632.704 ("parasang" "parasangs")]
+   [5920 ("schoenus")]
+   [42194.988 ("marathon" "marathons")]
+   [586000 ("charonradius")]
+   [1137000 ("plutoradius")]
+   [1569000 ("europaradius")]
+   [1738000 ("moonradius")]
+   [1815000 ("ioradius")]
+   [2400000 ("callistoradius")]
+   [2439000 ("mercuryradius")]
+   [2575000 ("titanradius")]
+   [2631000 ("ganymederadius")]
+   [3397000 ("marsradius")]
+   [6052000 ("venusradius")]
+   [6356752.3142 ("earthradius_polar" "earthradius_polars")]
+   [6371010 ("earthradius")]
+   [6378137 ("earthradius_equatorial" "earthradius_equatorials")]
+   [19640000 ("charondist" "charondists")]
+   [24764000 ("neptuneradius")]
+   [25559000 ("uranusradius")]
+   [60268000 ("saturnradius")]
+   [71492000 ("jupiterradius")]
+   [299792458 ("lightsecond" "lightseconds")]
+   [384400000 ("moondist" "moondists")]
+   [422000000 ("iodist" "iodists")]
+   [670900000 ("europadist" "europadists")]
+   [696000000 ("sunradius")]
+   [1070000000 ("ganymededist" "ganymededists")]
+   [1221850000 ("titandist" "titandists")]
+   [1883000000 ("callistodist" "callistodists")]
+   [17987547480 ("lightminute" "lightminutes")]
+   [57910000000 ("mercurydist" "mercurydists")]
+   [108200000000 ("venusdist" "venusdists")]
+   [147100000000 ("sundist_near" "sundist_nears")]
+   [149597870691
+    ("astronomicalunit" "astronomicalunits" "au" "aus" "ua" "uas")]
+   [149598022951.7128 ("earthdist" "earthdists" "sundist" "sundists")]
+   [152100000000 ("sundist_far" "sundist_fars")]
+   [227940000000 ("marsdist" "marsdists")]
+   [778330000000 ("jupiterdist" "jupiterdists")]
+   [1000000000000 ("spat" "spats")]
+   [1429400000000 ("saturndist" "saturndists")]
+   [2870990000000 ("uranusdist" "uranusdists")]
+   [4497070000000 ("neptunedist" "neptunedists")]
+   [5913520000000 ("plutodist" "plutodists")]
+   [9460730472580800 ("lightyear" "lightyears" "ly" "lys")]
+   [30856775813057276 ("parsec" "parsecs" "pc" "pcs")])}
+ {{"s" -2} ([1e-9 ("eotvos")])}
+ {{"K" 1, "s" 3, "kg" -1, "m" -2} ()}
+ {{"cd" 1, "m" -2}
+  ([0.0003183098861837907 ("skot" "skots")]
+   [0.001 ("nox" "noxs")]
+   [0.3183098861837907
+    ("apostilb"
+     "apostilbs"
+     "asb"
+     "asbs"
+     "blondel"
+     "blondels"
+     "equivalentlux"
+     "equivalentluxs")]
+   [1
+    ("lux"
+     "luxs"
+     "lx"
+     "lxs"
+     "metercandle"
+     "metercandles"
+     "nit"
+     "nits")]
+   [3.42625909963539 ("fL" "fLs" "footlambert" "footlamberts")]
+   [10.763910416709722 ("footcandle" "footcandles")]
+   [2000 ("skylum_o" "skylum_os")]
+   [2500 ("moonlum" "moonlums")]
+   [3183.098861837907
+    ("equivalentphot" "equivalentphots" "lambert" "lamberts")]
+   [8000 ("skylum" "skylums")]
+   [10000
+    ("ph"
+     "phot"
+     "phots"
+     "phs"
+     "sb"
+     "sbs"
+     "stilb"
+     "stilbs"
+     "sunillum_o"
+     "sunillum_os")]
+   [100000 ("sunillum" "sunillums")]
+   [6000000 ("sunlum_h" "sunlum_hs")]
+   [1600000000 ("sunlum" "sunlums")])}
+ {{"m" -2} ([425143.707430272 ("mpg" "mpgs")])}
+ {{"K" 2, "s" 3, "kg" -1, "m" -2}
+  ([1 ("fourier" "fouriers" "thermalohm" "thermalohms")])}
+ {{"s" 1, "kg" -1} ([1000 ("mobileohm" "mobileohms" "mohm" "mohms")])}
+ {{}
+  ([1e-12 ("partspertrillion" "partspertrillions" "ppt" "ppts")]
+   [1e-9 ("partsperbillion" "partsperbillions" "ppb" "ppbs")]
+   [4.848136811095362e-9 ("mas")]
+   [0.000001 ("partspermillion" "partspermillions" "ppm" "ppms")]
+   [0.0000015707963267948969 ("centesimalsecond" "centesimalseconds")]
+   [0.0000048481368110953615
+    ("arcsec" "arcsecond" "arcseconds" "arcsecs")]
+   [0.0001 ("basispoint" "basispoints")]
+   [0.00015707963267948968 ("centesimalminute" "centesimalminutes")]
+   [0.00029088820866572163
+    ("arcmin" "arcmins" "arcminute" "arcminutes")]
+   [0.0009817477042468104 ("milangle" "milangles")]
+   [0.001 ("fine" "fines")]
+   [0.005 ("proof" "proofs")]
+   [0.005555555555555556 ("squaredegree" "squaredegrees")]
+   [0.0072973525698
+    ("alpha"
+     "alphas"
+     "finestructureconstant"
+     "finestructureconstants")]
+   [0.01 ("centrad" "centrads" "percent" "percents")]
+   [0.015707963267948967 ("gon" "gons" "grade" "grades")]
+   [0.016666666666666666
+    ("squarearcmin"
+     "squarearcmins"
+     "squarearcsec"
+     "squarearcsecs"
+     "squareminute"
+     "squareminutes"
+     "squaresecond"
+     "squareseconds")]
+   [0.017453292519943295
+    ("arcdeg"
+     "arcdegree"
+     "arcdegrees"
+     "arcdegs"
+     "deg"
+     "degree"
+     "degrees"
+     "degs"
+     "°"
+     "°s")]
+   [0.02454369260617026 ("brad" "brads")]
+   [0.041666666666666664 ("caratgold" "caratgolds" "karat" "karats")]
+   [0.19634954084936207 ("pointangle" "pointangles")]
+   [0.5235987755982988 ("sign" "signs")]
+   [0.5772156649015329
+    ("EulerMascheroniConstant" "EulerMascheroniConstants")]
+   [1
+    ("one"
+     "ones"
+     "radian"
+     "radians"
+     "sr"
+     "srs"
+     "steradian"
+     "steradians"
+     "unity"
+     "unitys")]
+   [1.0125 ("syntoniccomma" "syntoniccommas")]
+   [1.0136432647705078 ("pythagoreancomma" "pythagoreancommas")]
+   [1.047197551196598 ("sextant" "sextants")]
+   [1.0594630943592953 ("semitone" "semitones")]
+   [1.125 ("majorsecond" "majorseconds")]
+   [1.2 ("minorthird" "minorthirds")]
+   [1.25 ("majorthird" "majorthirds")]
+   [1.2566370614359172 ("quintant" "quintants")]
+   [1.265625 ("pythagoreanthird" "pythagoreanthirds")]
+   [1.3333333333333333 ("musicalfourth" "musicalfourths")]
+   [1.5 ("musicalfifth" "musicalfifths")]
+   [1.5707963267948966
+    ("octant"
+     "octants"
+     "quadrant"
+     "quadrants"
+     "rightangle"
+     "rightangles"
+     "sphericalrightangle"
+     "sphericalrightangles")]
+   [1.6 ("minorsixth" "minorsixths")]
+   [1.6666666666666667 ("majorsixth" "majorsixths")]
+   [1.8 ("minorseventh" "minorsevenths")]
+   [1.875 ("majorseventh" "majorsevenths")]
+   [2
+    ("brace"
+     "braces"
+     "couple"
+     "couples"
+     "double"
+     "doubles"
+     "octave"
+     "octaves"
+     "pair"
+     "pairs"
+     "two"
+     "twos")]
+   [2.718281828459045 ("e")]
+   [3
+    ("nest"
+     "nests"
+     "three"
+     "threes"
+     "treble"
+     "trebles"
+     "triple"
+     "triples")]
+   [3.141592653589793 ("pi" "pis" "p" "ps")]
+   [4 ("four" "fours" "quadruple" "quadruples")]
+   [5 ("five" "fives" "quintuple" "quintuples")]
+   [6 ("sextuple" "sextuples" "six" "sixs")]
+   [6.283185307179586
+    ("circle"
+     "circles"
+     "cycle"
+     "cycles"
+     "rev"
+     "revolution"
+     "revolutions"
+     "revs"
+     "turn"
+     "turns")]
+   [7 ("septuple" "septuples" "seven" "sevens")]
+   [8 ("eight" "eights")]
+   [9 ("nine" "nines")]
+   [10 ("dickers" "ten" "tens")]
+   [12 ("dozen" "dozens")]
+   [12.566370614359172 ("sphere" "spheres")]
+   [13 ("bakersdozen" "bakersdozens")]
+   [20 ("score" "scores" "twenty" "twentys")]
+   [24 ("shortquire" "shortquires")]
+   [25 ("quire" "quires")]
+   [30 ("thirty" "thirtys")]
+   [40 ("flock" "flocks" "forty" "fortys" "timer" "timers")]
+   [50 ("fifty" "fiftys")]
+   [60 ("shock" "shocks" "sixty" "sixtys")]
+   [70 ("seventy" "seventys")]
+   [80 ("eighty" "eightys")]
+   [90 ("ninety" "ninetys")]
+   [100 ("hundred" "hundreds")]
+   [144 ("gross")]
+   [480 ("shortream" "shortreams")]
+   [500 ("ream" "reams")]
+   [516 ("perfectream" "perfectreams")]
+   [1000 ("bundle" "bundles" "thousand" "thousands")]
+   [1728 ("greatgross")]
+   [5000 ("bale" "bales")]
+   [1000000 ("million" "millions")]
+   [1000000000
+    ("billion"
+     "billions"
+     "brmilliard"
+     "brmilliards"
+     "milliard"
+     "milliards")]
+   [1000000000000 ("brbillion" "brbillions" "trillion" "trillions")]
+   [1000000000000000
+    ("billiard"
+     "billiards"
+     "brbilliard"
+     "brbilliards"
+     "quadrillion"
+     "quadrillions")]
+   [1000000000000000000
+    ("brtrillion" "brtrillions" "quintillion" "quintillions")]
+   [1e+21
+    ("brtrilliard"
+     "brtrilliards"
+     "sextillion"
+     "sextillions"
+     "trilliard"
+     "trilliards")]
+   [1e+24
+    ("brquadrillion" "brquadrillions" "septillion" "septillions")]
+   [1e+27
+    ("brquadrilliard"
+     "brquadrilliards"
+     "octillion"
+     "octillions"
+     "quadrilliard"
+     "quadrilliards")]
+   [1e+30
+    ("brquintillion"
+     "brquintillions"
+     "nonillion"
+     "nonillions"
+     "noventillion"
+     "noventillions")]
+   [1e+33 ("decillion" "decillions")]
+   [1.0000000000000001e+33
+    ("brquintilliard"
+     "brquintilliards"
+     "quintilliard"
+     "quintilliards")]
+   [1e+36
+    ("brsextillion" "brsextillions" "undecillion" "undecillions")]
+   [1e+39 ("duodecillion" "duodecillions")]
+   [1.0000000000000001e+39
+    ("brsextilliard" "brsextilliards" "sextilliard" "sextilliards")]
+   [1e+42
+    ("brseptillion" "brseptillions" "tredecillion" "tredecillions")]
+   [1e+45 ("quattuordecillion" "quattuordecillions")]
+   [1.0000000000000001e+45
+    ("brseptilliard" "brseptilliards" "septilliard" "septilliards")]
+   [1e+48
+    ("broctillion" "broctillions" "quindecillion" "quindecillions")]
+   [1e+51
+    ("broctilliard"
+     "broctilliards"
+     "octilliard"
+     "octilliards"
+     "sexdecillion"
+     "sexdecillions")]
+   [1e+54
+    ("brnonillion"
+     "brnonillions"
+     "brnoventillion"
+     "brnoventillions"
+     "septendecillion"
+     "septendecillions")]
+   [1e+57
+    ("brnonilliard"
+     "brnonilliards"
+     "brnoventilliard"
+     "brnoventilliards"
+     "nonilliard"
+     "nonilliards"
+     "noventilliard"
+     "noventilliards"
+     "octodecillion"
+     "octodecillions")]
+   [1e+60 ("novemdecillion" "novemdecillions")]
+   [1.0000000000000001e+60 ("brdecillion" "brdecillions")]
+   [1e+63
+    ("brdecilliard"
+     "brdecilliards"
+     "decilliard"
+     "decilliards"
+     "vigintillion"
+     "vigintillions")]
+   [1.0000000000000001e+66 ("brundecillion" "brundecillions")]
+   [1.0000000000000001e+72 ("brduodecillion" "brduodecillions")]
+   [1.0000000000000002e+78 ("brtredecillion" "brtredecillions")]
+   [1.0000000000000003e+84
+    ("brquattuordecillion" "brquattuordecillions")]
+   [1.0000000000000003e+90 ("brquindecillion" "brquindecillions")]
+   [1.0000000000000003e+96 ("brsexdecillion" "brsexdecillions")]
+   [1e+100 ("googol" "googols")]
+   [1.0000000000000002e+102 ("brseptdecillion" "brseptdecillions")]
+   [1.0000000000000002e+108 ("broctodecillion" "broctodecillions")]
+   [1.0000000000000002e+114 ("brnovemdecillion" "brnovemdecillions")]
+   [1.0000000000000001e+120 ("brvigintillion" "brvigintillions")]
+   [1e+303 ("centillion" "centillions")])}
+ {{"m" -1}
+  ([1 ("diopter" "diopters" "dioptre" "dioptres")]
+   [100 ("balmer" "balmers" "kayser" "kaysers")]
+   [10967760 ("R_H" "R_Hs")]
+   [10973731.568539
+    ("Rinfinity"
+     "Rinfinitys"
+     "Rydberg_constant"
+     "Rydberg_constants")])}
+ {{"K" 1, "m" 1}
+  ([0.0028977721 ("wiendisplacement" "wiendisplacements")])}
+ {{"K" -1} ([1000000 ("mired" "mireds")])}
+ {{"K" -1, "s" -2, "kg" 1, "m" 2, "mol" -1}
+  ([8.3144621 ("R" "gasconstant" "gasconstants")])}
+ {{"s" -1, "bit" 1} ([1 ("bps")])}
+ {{"K" -1, "s" -2, "m" 2} ([1000 ("mayer" "mayers")])}
+ {{"s" 1, "cd" 1, "m" -2} ([1 ("mcs")])}
+ {{"s" -4, "kg" 1, "A" -2, "m" 3}
+  ([8987551787.36818 ("coulombconst" "coulombconsts")])}
+ {{"m" 3, "mol" -1}
+  ([0.02241396814818653
+    ("amagatvolume" "amagatvolumes" "molarvolume" "molarvolumes")])}
+ {{"s" 1}
+  ([5.391060423886094e-44 ("plancktime" "plancktimes" "t_P" "t_Ps")]
+   [2.4188843209056177e-17 ("atomictime" "atomictimes")]
+   [1e-13 ("svedberg" "svedbergs")]
+   [1e-8 ("shake" "shakes")]
+   [0.01 ("jiffies" "jiffy" "jiffys")]
+   [0.1595744680851064 ("timeatom" "timeatoms")]
+   [0.8640000000000001 ("blink" "blinks")]
+   [0.9972695663290861 ("siderealsecond" "siderealseconds")]
+   [1 ("s" "sec" "second" "seconds" "secs")]
+   [7.5 ("timeounce" "timeounces")]
+   [59.836173979745155 ("siderealminute" "siderealminutes")]
+   [60 ("min" "mins" "minute" "minutes" "timeostent" "timeostents")]
+   [360 ("timeminute" "timeminutes")]
+   [720 ("timepoint" "timepoints")]
+   [864 ("ce" "ces")]
+   [1800 ("bell" "bells")]
+   [3543.66666 ("lunour" "lunours")]
+   [3590.1704387847085 ("siderealhour" "siderealhours")]
+   [3600 ("hour" "hours" "hr" "hrs")]
+   [14400 ("watch" "watchs")]
+   [35729.856 ("jupiterday" "jupiterdays")]
+   [37800 ("saturnday" "saturndays")]
+   [56160 ("uranusday" "uranusdays")]
+   [66355.2 ("neptuneday" "neptunedays")]
+   [85047.99983999999 ("lune" "lunes")]
+   [86164.090530833
+    ("earthday" "earthdays" "siderealday" "siderealdays")]
+   [86400 ("d" "da" "das" "day" "days")]
+   [88642.663 ("marssiderealday" "marssiderealdays")]
+   [88775.24409 ("marsday" "marsdays" "marssolarday" "marssolardays")]
+   [551810.88 ("plutoday" "plutodays")]
+   [604800 ("sennight" "sennights" "week" "weeks" "wk" "wks")]
+   [1209600 ("fortnight" "fortnights")]
+   [2351135.79936
+    ("draconicmonth"
+     "draconicmonths"
+     "draconiticmonth"
+     "draconiticmonths"
+     "nodicalmonth"
+     "nodicalmonths")]
+   [2360591.5104 ("siderealmonth" "siderealmonths")]
+   [2380713.100128 ("anomalisticmonth" "anomalisticmonths")]
+   [2548800 ("islamicmonth" "islamicmonths")]
+   [2551439.9952
+    ("lunarmonth"
+     "lunarmonths"
+     "lunation"
+     "lunations"
+     "synodicmonth"
+     "synodicmonths")]
+   [2629743.8312232 ("mo" "month" "months" "mos")]
+   [5067031.68 ("mercuryday" "mercurydays")]
+   [7513343.999999999 ("mercuryyear" "mercuryyears")]
+   [19412352 ("venusyear" "venusyears")]
+   [20996064 ("venusday" "venusdays")]
+   [30585600 ("islamicyear" "islamicyears")]
+   [30617279.942399997 ("lunaryear" "lunaryears")]
+   [30672000 ("islamicleapyear" "islamicleapyears")]
+   [31536000
+    ("calendaryear" "calendaryears" "commonyear" "commonyears")]
+   [31556925.9746784
+    ("solaryear"
+     "solaryears"
+     "tropicalyear"
+     "tropicalyears"
+     "year"
+     "years"
+     "yr"
+     "yrs")]
+   [31556952 ("gregorianyear" "gregorianyears")]
+   [31557600 ("julianyear" "julianyears")]
+   [31558149.5400288
+    ("earthyear" "earthyears" "siderealyear" "siderealyears")]
+   [31558429.439999998 ("anomalisticyear" "anomalisticyears")]
+   [31559241.6 ("gaussianyear" "gaussianyears")]
+   [31622400 ("leapyear" "leapyears")]
+   [59352480.00000001 ("marsyear" "marsyears")]
+   [157784629.87339202 ("lustrum" "lustrums")]
+   [315569259.74678403 ("decade" "decades")]
+   [374328255.9116352 ("jupiteryear" "jupiteryears")]
+   [929603925.3620763 ("saturnyear" "saturnyears")]
+   [2651160464.9846816 ("uranusyear" "uranusyears")]
+   [3155692597.46784 ("centuries" "century" "centurys")]
+   [3155760000 ("juliancenturies" "juliancentury" "juliancenturys")]
+   [5200518286.775051 ("neptuneyear" "neptuneyears")]
+   [7841896104.707582 ("plutoyear" "plutoyears")]
+   [31556925974.678402
+    ("millennia" "millennias" "millennium" "millenniums")]
+   [31556925974678.402 ("cron" "crons")])}
+ {{"s" 2, "kg" -1, "A" 1, "m" -1}
+  ([46.68644982893529 ("lorentz" "lorentzs")])}
+ {{"kg" -1, "mol" 1} ([1 ("molal" "molals")])}
+ {{"A" 1, "m" 2}
+  ([-9.2847643e-24
+    ("electronmagneticmoment"
+     "electronmagneticmoments"
+     "mu_e"
+     "mu_es")]
+   [-4.49044807e-26
+    ("mu_mu" "mu_mus" "muonmagneticmoment" "muonmagneticmoments")]
+   [-9.6623647e-27
+    ("mu_n" "mu_ns" "neutronmagneticmoment" "neutronmagneticmoments")]
+   [4.33073489e-27
+    ("deuteronmagneticmoment"
+     "deuteronmagneticmoments"
+     "mu_d"
+     "mu_ds")]
+   [5.0507835294237576e-27
+    ("mu_N" "mu_Ns" "nuclearmagneton" "nuclearmagnetons")]
+   [1.410606743e-26
+    ("mu_p" "mu_ps" "protonmagneticmoment" "protonmagneticmoments")]
+   [9.27400967298574e-24
+    ("bohrmagneton" "bohrmagnetons" "mu_B" "mu_Bs")])}
+ {{"cd" 1}
+  ([0.918 ("hefnercandle" "hefnercandles" "hefnerunit" "hefnerunits")]
+   [1 ("candela" "candelas" "cd" "lm" "lms" "lumen" "lumens")]
+   [1.02 ("candle" "candles")]
+   [20.17 ("violle" "violles")])}
+ {{"s" 1, "kg" -1, "A" 1}
+  ([0.000258 ("roentgen" "roentgens" "rontgen" "rontgens")]
+   [0.00216204 ("sievertunit" "sievertunits")])}
+ {{"A" 1, "m" -2} ()}
+ {{"s" -2, "m" 2}
+  ([0.00838 ("rep" "reps")]
+   [0.01 ("rad" "rads" "rem" "rems")]
+   [1 ("Gy" "Gys" "Sv" "Svs" "gray" "grays" "sievert" "sieverts")]
+   [4612070.524907639 ("TNT" "TNTs")]
+   [6010000 ("PETN" "PETNs")]
+   [18200000 ("coal" "coals")]
+   [41868000 ("oil" "oils")]
+   [89875517873681760 ("energy" "energys")])}
+ {{"s" -1}
+  ([2.2815086199060925e-18
+    ("H_0" "H_0s" "hubbleconstant" "hubbleconstants")]
+   [3.1688764640840184e-8
+    ("annual" "annually" "annuallys" "annuals" "yearly" "yearlys")]
+   [3.8026517569008216e-7 ("monthly" "monthlys")]
+   [0.0000016534391534391535 ("weekly" "weeklys")]
+   [0.000011574074074074073 ("daily" "dailys")]
+   [0.0002777777777777778 ("hourly" "hourlys")]
+   [0.1047197551196598 ("rpm" "rpms")]
+   [1
+    ("Bq"
+     "Bqs"
+     "Hz"
+     "Hzs"
+     "becquerel"
+     "becquerels"
+     "hertz"
+     "hertzs"
+     "pulsatance"
+     "pulsatances")]
+   [6.283185307179586 ("rps")]
+   [1000000 ("rutherford" "rutherfords")]
+   [37000000000 ("Ci" "Cis" "curie" "curies")]
+   [1000000000000 ("fresnel" "fresnels")])})
+   

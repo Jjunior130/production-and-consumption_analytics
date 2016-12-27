@@ -1,0 +1,33 @@
+(in-ns production-and-consumption-analytics.core)
+(in-ns 'production-and-consumption-analytics.core)
+rv/parse
+(require '[reaver :as rv])
+(clojure.core/require '[reaver :as rv])
+rv/parse
+(doc slurp)
+(use 'clojure.core)
+(clojure.core/use 'clojure.core)
+(doc slurp)
+use
+doc
+clojure.repl/doc
+(clojure.repl/doc slurp)
+(use 'clojure.repl)
+(def l-o-p-q (slurp "http://www.technologyuk.net/physics/measurement_and_units/physical_quantities_and_si_units.shtml"))
+l-o-p-q
+(rv/select l-o-p-q "table")
+(rv/select (rv/parse l-o-p-q) "table")
+(clojure.pprint/pprint (rv/select (rv/parse l-o-p-q) "table"))
+l-o-p-q
+(def l-o-p-q (rv/parse l-o-p-q))
+l-o-p-q
+(slurp "https://en.wikipedia.org/wiki/List_of_physical_quantities") 
+(use 'cljs-time)
+(use 'cljs-time.core)
+*clojure*
+*clojure-version*
+cljs-time.core/now
+:quit
+(quit)
+cljs-time.core/now
+clojure.edn/read-string
